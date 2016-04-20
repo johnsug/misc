@@ -21,6 +21,9 @@
 | Maple Bacon (20mg) | | |
 | Mandarin Orange (20mg) | | |
 | Cucumber Mint (20mg) | | |
+| Pineapple (0mg) | | |
+| Strawberry Kiwi (0mg) | | |
+| Lemonade (0mg) | | |
 | Blueberry Pomegranae (35mg) | | |
 | Vanilla Orange (35mg) | | |
 | Cherry Lime (35mg) | | |
