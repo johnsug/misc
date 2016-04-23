@@ -13,15 +13,12 @@
 | Strawberry Banana | 0mg | | |
 | Big Apple | 0mg | | |
 | Peanut Butter | 0mg | | |
-
 | Tastefully Nude | 20mg | | |
 | Chocolate Outrage | 20mg | | |
 | Maple Bacon | 20mg | | |
-
 | Mandarin Orange | 20mg | | |
 | Chocolate Peanut Butter | 20mg | | |
 | Root Beer | 0mg | | |
-
 | Lemon Sublime | 0mg | | |
 | Espresso Love | 40mg | | |
 | Pineapple | 0mg | | |
