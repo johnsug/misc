@@ -20,5 +20,6 @@
 To Try:
 - Q39
 - Jack Stack
+- Summit Hickory Pit BBQ
 - Burnt End
 - Arthur Bryants (?)
