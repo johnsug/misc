@@ -30,3 +30,6 @@
 | Sea Salt Chocolate | 35mg | | |
 | Vanilla Spice | 35mg | | |
 | Chocolate Coconut | 35mg | | |
+
+Other:
+Stinger Honey Waffle - ok taste (3/5), but not sure I'd want to take on a run, but might work as pre-race fuel
