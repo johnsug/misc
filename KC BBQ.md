@@ -18,8 +18,12 @@
 | The Rub Bar-B-Que | Olathe, KS | 3/5 | Meh; chewy burnt ends and runny sauce |
 
 To Try:
-- Q39
-- Jack Stack
-- Summit Hickory Pit BBQ
-- Burnt End
-- Arthur Bryants (?)
+- Q39 (4.4 from 182)
+- Brobecks Barbeque (4.5 from 53)
+- Jack Stack (4.6 from 118)
+- Summit Hickory Pit BBQ (4.3 from 55)
+- LC's Bar-B-Q (4.0 from 111)
+- BB Lawnside BBQ (4.3 from 105)
+- Danny Edwards (4.5 from 39)
+- Woodyard Bar-B-Que (4.0 from 101)
+- Arthur Bryants (3.7 from 401)
