@@ -32,4 +32,5 @@
 | Chocolate Coconut | 35mg | | |
 
 Other:
-Stinger Honey Waffle - ok taste (3/5), but not sure I'd want to take on a run, but might work as pre-race fuel
+Stinger Honey Waffle - (3/5) ok taste, but not sure I'd want to take on a run, but might work as pre-race fuel
+GU Strawberry Chews - (2.5/5) ok taste, weird smell and aftertaste
