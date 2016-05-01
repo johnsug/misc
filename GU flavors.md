@@ -9,12 +9,12 @@
 | Salted Caramel | 20mg | 4/5 | Good flavor |
 | Caramel Maccihiato | 40mg | 1/5 | Nasty |
 | Salted Watermelon | 20mg | 1/5 | Soapy melon |
+| Chocolate Outrage | 20mg | 4.5/5 | Best yet -- gooey brownie mix |
+| Tastefully Nude | 20mg | 2.5/5 | Super sweet cream cheese frosting |
+| Strawberry Banana | 0mg | 3.5/5 | Almost banana-y, with a hint of strawberry; OK aftertaste |
 
-| Strawberry Banana | 0mg | | |
 | Big Apple | 0mg | | |
 | Peanut Butter | 0mg | | |
-| Tastefully Nude | 20mg | | |
-| Chocolate Outrage | 20mg | | |
 | Maple Bacon | 20mg | | |
 | Mandarin Orange | 20mg | | |
 | Chocolate Peanut Butter | 20mg | | |
