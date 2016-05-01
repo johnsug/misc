@@ -12,7 +12,7 @@
 | Zarda | Lenexa, KS | 3/5 | Ok |
 | Big T's Bar-B-Q | KC, MO | 2/5 | Meh |
 | Dickey's Barbeque Pit | Lee's Summit, MO | 3/5 | Ok for a national chain | 
-| (Lee's Summit Food Truck) | Lee's Summit, MO | 3/5 | Ok |
+| Three Pigs BBQ (Food Truck) | Lee's Summit, MO | 3/5 | Ok |
 | Gates & Sons Bar-B-Q | Stateline,KS | 2/5 | Meh; runny sauce |
 | The Filling Station | Lee's Summit, MO | 3/5 | Ok |
 | The Rub Bar-B-Que | Olathe, KS | 3/5 | Meh; chewy burnt ends and runny sauce |
