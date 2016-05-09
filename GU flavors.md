@@ -10,10 +10,10 @@
 | Caramel Maccihiato | 40mg | 1/5 | Nasty |
 | Salted Watermelon | 20mg | 1/5 | Soapy melon |
 | Chocolate Outrage | 20mg | 4.5/5 | Best yet -- gooey brownie mix |
-| Tastefully Nude | 20mg | 2.5/5 | Super sweet cream cheese frosting |
+| Tastefully Nude | 20mg | 2.5/5 | Super-sweet cream cheese frosting |
 | Strawberry Banana | 0mg | 3.5/5 | Almost banana-y, with a hint of strawberry; OK aftertaste |
-| Cherry Lime | 35mg | 2/5 | Weird flavor / aftertaste |
-| Big Apple | 0mg | 3/5 | Very mild flavor |
+| Cherry Lime | 35mg | 2/5 | Weird (coffee?) flavor / aftertaste |
+| Big Apple | 0mg | 3/5 | Very light, mild flavor; almost discernible |
 
 | Chocolate Peanut Butter | 20mg | | |
 | Sea Salt Chocolate | 35mg | | |
