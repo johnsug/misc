@@ -24,15 +24,19 @@
 | Vanilla Spice | 35mg | | |
 | Lemon Sublime | 0mg | | |
 | Maple Bacon | 20mg | | |
-| Strawberry Kiwi | 0mg | 2/5 | ok taste, weird smell and aftertaste |
+| Strawberry Kiwi | 0mg | | |
 | Lemonade | 0mg | | |
 | Blueberry Pomegranate | 35mg | | |
 | Chocolate Coconut | 35mg | | |
 | ~~Espresso Love~~ | ~~40mg~~ | | |
-| Strawberry Chews | 2/5 | | |
+| Strawberry Chews | 0mg | 2/5 | ok taste, weird smell and aftertaste |
 | CLIF Citrus | 25 mg | | |
 | CLIF Razz | 0mg | | |
 | CLIF Chocolate Cherry | 100mg | | |
 | CLIF Chocolate | 0mg | | |
 | CLIF Vanilla | 0mg | | |
 | CLIF Strawberry* | 25mg | | |
+
+
+Other:
+* Stinger Honey Waffle - (3/5) ok taste, but not sure I'd want to take on a run, but might work as pre-race fuel
