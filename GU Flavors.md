@@ -36,7 +36,3 @@
 | CLIF Chocolate | 0mg | | |
 | CLIF Vanilla | 0mg | | |
 | CLIF Strawberry* | 25mg | | |
-
-
-Other:
-* Stinger Honey Waffle - (3/5) ok taste, but not sure I'd want to take on a run, but might work as pre-race fuel
