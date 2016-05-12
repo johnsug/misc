@@ -30,7 +30,7 @@
 | Chocolate Coconut | 35mg | | |
 | ~~Espresso Love~~ | ~~40mg~~ | | |
 | Strawberry Chews | 0mg | 2/5 | ok taste, weird smell and aftertaste |
-| CLIF Razz | 0mg | 2.5/5 | super sweet -> wierd sour taste/aftertaste |
+| CLIF Razz | 0mg | 2.5/5 | super sweet -> wierd sour taste/aftertaste; stomach not happy afterwards |
 | CLIF Citrus | 25 mg | | |
 | CLIF Chocolate Cherry | 100mg | | |
 | CLIF Chocolate | 0mg | | |
