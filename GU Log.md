@@ -35,4 +35,4 @@
 | CLIF Chocolate Cherry | 100mg | | |
 | CLIF Chocolate | 0mg | | |
 | CLIF Vanilla | 0mg | | |
-| CLIF Strawberry* | 25mg | | |
+| CLIF Strawberry | 25mg | | |
