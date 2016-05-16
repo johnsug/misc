@@ -2,7 +2,7 @@
 ## GU Energy Gels/Chews Flavor Log
 
 | Flavor | C  | Rating | Thoughts |
-|--------------------------------|----|--------|----------|
+|--------|----|--------|----------|
 | Vanilla Bean | 20mg |4/5 | Good flavor |
 | Jet Blackberry | 40mg | 1/5 | Tasted like cough medicine | 
 | Tri-Berry | 20mg | 1.5/5 | Too sweet!! | 
