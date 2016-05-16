@@ -9,16 +9,16 @@
 | Salted Caramel | 20mg | 4/5 | Good flavor |
 | Caramel Maccihiato | 40mg | 1/5 | Nasty |
 | Salted Watermelon | 20mg | 1/5 | Soapy melon |
-| Chocolate Outrage | 20mg | 4.5/5 | Best yet -- gooey brownie mix |
+| Chocolate Outrage | 20mg | 4.5/5 | Very good -- gooey brownie mix (2nd packet a bit off) |
 | Tastefully Nude | 20mg | 2.5/5 | Super-sweet cream cheese frosting |
 | Strawberry Banana | 0mg | 3.5/5 | Almost banana-y, with a hint of strawberry; OK aftertaste |
 | Cherry Lime | 35mg | 2/5 | Weird (coffee?) flavor / aftertaste |
 | Big Apple | 0mg | 3/5 | Very light, mild flavor; almost discernible |
 | Mandarin Orange | 20mg | 2/5 | Weird (burnt) taste/aftertaste |
 | Peanut Butter | 0mg | | |
-| Chocolate Peanut Butter | 20mg | | |
-| Sea Salt Chocolate | 35mg | | |
-| Root Beer | 0mg | | |
+| Chocolate Peanut Butter | 20mg | 4.5/5 | Very good, but couldn't really discern the peanut butter |
+| Sea Salt Chocolate | 35mg | 5/5 | Perfect (didnt taste the sea salt, though) |
+| Root Beer | 0mg | 4/5 | A tad sweet, but good taste and not too thick|
 | Vanilla Orange | 35mg | | |
 | Pineapple | 0mg | | |
 | Vanilla Spice | 35mg | | |
