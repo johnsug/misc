@@ -19,7 +19,7 @@
 | Sea Salt Chocolate | 35mg | 5/5 | Perfect (didnt taste the sea salt, though) |
 | Root Beer | 0mg | 4/5 | A tad sweet, but good taste and not too thick |
 | Peanut Butter | 0mg | 4/5 | good, but almost chalky at the end |
-| Lemon Sublime | 0mg | 3/5 | not a bad flavor, but wierd, not my favorite|
+| Lemon Sublime | 0mg | 3/5 | not a bad flavor, but weird (reminiscent of cherry lime w/o the coffee taste); not my favorite |
 | Pineapple | 0mg | | |
 | Maple Bacon | 20mg | | |
 | Vanilla Spice | 35mg | | |
