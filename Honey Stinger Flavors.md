@@ -5,7 +5,7 @@
 | Flavor | C  | Rating | Thoughts |
 |--------|----|--------|----------|
 | Cherry Blommom Chew | 0mg | | |
-| Cherry Cola Chew | 32mg | | |
+| Cherry Cola Chew | 32mg | 3/5 | Very subtle flavor |
 | Fruit Smoothie Chew | 0mg | | |
 | Grapefruit Chew | 0mg | | |
 | Lime-Ade Chew | 32mg | | |
