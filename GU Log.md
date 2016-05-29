@@ -19,10 +19,10 @@
 | Sea Salt Chocolate | 35mg | 5/5 | Perfect (didnt taste the sea salt, though) |
 | Root Beer | 0mg | 4/5 | A tad sweet, but good taste and not too thick |
 | Peanut Butter | 0mg | 4/5 | good, but almost chalky at the end |
+| Lemon Sublime | 0mg | 3/5 | not a bad flavor, but wierd, not my favorite|
 | Pineapple | 0mg | | |
 | Maple Bacon | 20mg | | |
 | Vanilla Spice | 35mg | | |
-| Lemon Sublime | 0mg | | |
 | Strawberry Kiwi | 0mg | | |
 | Blueberry Pomegranate | 35mg | | |
 | Chocolate Coconut | 35mg | | |
@@ -32,8 +32,8 @@
 | Strawberry Chews | 0mg | 2/5 | ok taste, weird smell and aftertaste |
 | Blueberry Chews | 0mg | 4/5 | ok taste, better than strawberry; no aftertaste |
 | CLIF Razz | 0mg | 2.5/5 | super sweet -> wierd sour taste/aftertaste; stomach not happy afterwards |
+| CLIF Chocolate | 0mg | 4/5 | ok, but I liked GU chocolate a bit better |
 | CLIF Citrus | 25 mg | | |
 | CLIF Chocolate Cherry | 100mg | | |
-| CLIF Chocolate | 0mg | | |
 | CLIF Vanilla | 0mg | | |
 | CLIF Strawberry | 25mg | | |
