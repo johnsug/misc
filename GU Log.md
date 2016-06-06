@@ -35,5 +35,5 @@
 | CLIF Chocolate | 0mg | 4/5 | ok, but I liked GU chocolate a bit better |
 | CLIF Citrus | 25 mg | | |
 | CLIF Chocolate Cherry | 100mg | | |
-| CLIF Vanilla | 0mg | | |
+| CLIF Vanilla | 0mg | 4/5 | solid flavor (cream cheese frosting) |
 | CLIF Strawberry | 25mg | | |
