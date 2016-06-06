@@ -1,6 +1,6 @@
 
 ## Honey Stinger Energy Gels/Chews/Waffle* Flavor Log
-*waffles are a bit large and are probably better for pre-race fuel
+*waffles/chews are a bit large for a race pack and are probably better for pre-race fuel
 
 | Flavor | C  | Rating | Thoughts |
 |--------|----|--------|----------|
