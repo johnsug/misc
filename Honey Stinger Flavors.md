@@ -4,11 +4,11 @@
 
 | Flavor | C  | Rating | Thoughts |
 |--------|----|--------|----------|
+| Cherry Cola Chew | 32mg | 3.5/5 | Very subtle/indiscernible flavor |
+| Lime-Ade Chew | 32mg | 2.5/5 | Did not enjoy |
 | Cherry Blommom Chew | 0mg | | |
-| Cherry Cola Chew | 32mg | 3/5 | Very subtle/indiscernible flavor |
 | Fruit Smoothie Chew | 0mg | | |
 | Grapefruit Chew | 0mg | | |
-| Lime-Ade Chew | 32mg | | |
 | Orange Blossom Chew | 0mg | | |
 | Lemonade Chew | 0mg | | |
 | Pomegranate Passion Chew | 0mg | | |
