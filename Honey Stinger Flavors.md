@@ -15,10 +15,10 @@
 | Caramel Waffle | 0mg | | |
 | Chocolate Waffle | 0mg | | |
 | Gingersnap Waffle | 0mg | | |
+| Vanilla Waffle | 0mg | 4/5 | Good, albeit a bit messy |
 | Honey Waffle | 0mg | | |
 | Lemon Waffle | 0mg | | |
 | Strawberry Waffle | 0mg | | |
-| Vanilla Waffle | 0mg | | |
 | Chocolate Gel | 32mg | | |
 | Vanilla Gel | 0mg | | |
 | Mango Orange Gel | 0mg | | |
