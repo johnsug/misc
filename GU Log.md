@@ -20,20 +20,20 @@
 | Root Beer | 0mg | 4/5 | A tad sweet, but good taste and not too thick |
 | Peanut Butter | 0mg | 4/5 | good, but almost chalky at the end |
 | Lemon Sublime | 0mg | 3/5 | not a bad flavor, but weird (reminiscent of cherry lime w/o the coffee taste); not my favorite |
+| Chocolate Coconut | 35mg | 3/5 | ok, coconut flavor overpowered the chocolate; not my favorite |
 | Pineapple | 0mg | | |
 | Maple Bacon | 20mg | | |
 | Vanilla Spice | 35mg | | |
 | Strawberry Kiwi | 0mg | | |
 | Blueberry Pomegranate | 35mg | | |
-| Chocolate Coconut | 35mg | | |
 | Vanilla Orange | 35mg | | |
 | Lemonade | 0mg | | |
 | ~~Espresso Love~~ | ~~40mg~~ | | |
 | Strawberry Chews | 0mg | 2/5 | ok taste, weird smell and aftertaste |
 | Blueberry Chews | 0mg | 4/5 | ok taste, better than strawberry; no aftertaste |
-| CLIF Razz | 0mg | 2.5/5 | super sweet -> wierd sour taste/aftertaste; stomach not happy afterwards |
+| CLIF Razz | 0mg | 2.5/5 | super sweet -> weird sour taste/aftertaste; stomach not happy afterwards |
 | CLIF Chocolate | 0mg | 4/5 | ok, but I liked GU chocolate a bit better |
 | CLIF Vanilla | 0mg | 4/5 | solid flavor (cream cheese frosting) |
+| CLIF Strawberry | 25mg | 2.5/5 | like razz, started very sweet, ended with a weird sour taste |
 | CLIF Citrus | 25 mg | | |
 | CLIF Chocolate Cherry | 100mg | | |
-| CLIF Strawberry | 25mg | | |
