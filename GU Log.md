@@ -31,9 +31,3 @@
 | ~~Espresso Love~~ | ~~40mg~~ | | |
 | Strawberry Chews | 0mg | 2/5 | ok taste, weird smell and aftertaste |
 | Blueberry Chews | 0mg | 4/5 | ok taste, better than strawberry; no aftertaste |
-| CLIF Razz | 0mg | 2.5/5 | super sweet -> weird sour taste/aftertaste; stomach not happy afterwards |
-| CLIF Chocolate | 0mg | 4/5 | ok, but I liked GU chocolate a bit better |
-| CLIF Vanilla | 0mg | 4/5 | solid flavor (cream cheese frosting) |
-| CLIF Strawberry | 25mg | 2.5/5 | like razz, started very sweet, ended with a weird sour taste |
-| CLIF Citrus | 25 mg | | |
-| CLIF Chocolate Cherry | 100mg | | |
