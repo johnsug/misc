@@ -19,9 +19,9 @@
 | Honey Waffle | 0mg | | |
 | Lemon Waffle | 0mg | | |
 | Strawberry Waffle | 0mg | | |
-| Chocolate Gel | 32mg | | |
+| Chocolate Gel | 32mg | 3/5 | Decent flavor, not super thick, but had GI issues afterwards |
+| Mango Orange Gel | 0mg | 4.5/5 | Good flavor, sweet but not too sweet, not super thick |
 | Vanilla Gel | 0mg | | |
-| Mango Orange Gel | 0mg | | |
 | Acai-Pomegranate Gel | 0mg | | |
 | Fruit Smoothie Gel | 0mg | | |
 | Strawberry Kiw Gel | 32mg | | |
