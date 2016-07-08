@@ -24,4 +24,4 @@
 | Vanilla Gel | 0mg | | |
 | Acai-Pomegranate Gel | 0mg | | |
 | Fruit Smoothie Gel | 0mg | | |
-| Strawberry Kiw Gel | 32mg | | |
+| Strawberry Kiwi Gel | 32mg | | |
