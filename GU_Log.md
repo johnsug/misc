@@ -21,11 +21,11 @@
 | Peanut Butter | 0mg | 4/5 | good, but almost chalky at the end |
 | Lemon Sublime | 0mg | 3/5 | not a bad flavor, but weird (reminiscent of cherry lime w/o the coffee taste); not my favorite |
 | Chocolate Coconut | 35mg | 3/5 | ok, coconut flavor overpowered the chocolate; not my favorite |
+| Blueberry Pomegranate | 35mg | 2/5 | Funky taste, slight (weird) aftertaste |
 | Pineapple | 0mg | | |
 | Maple Bacon | 20mg | | |
 | Vanilla Spice | 35mg | | |
 | Strawberry Kiwi | 0mg | | |
-| Blueberry Pomegranate | 35mg | | |
 | Vanilla Orange | 35mg | | |
 | Lemonade | 0mg | | |
 | ~~Espresso Love~~ | ~~40mg~~ | | |
