@@ -16,9 +16,9 @@
 | Chocolate Waffle | 0mg | | |
 | Gingersnap Waffle | 0mg | | |
 | Vanilla Waffle | 0mg | 4/5 | Good, albeit a bit messy |
+| Strawberry Waffle | 0mg | 4/5 | Didn't really taste strawberry |
+| Lemon Waffle | 0mg | 4/5 | Didn't really taste lemon |
 | Honey Waffle | 0mg | | |
-| Lemon Waffle | 0mg | | |
-| Strawberry Waffle | 0mg | | |
 | Chocolate Gel | 32mg | 3/5 | Decent flavor, not super thick, but had GI issues afterwards |
 | Mango Orange Gel | 0mg | 4.5/5 | Good flavor, sweet but not too sweet, not super thick |
 | Vanilla Gel | 0mg | | |
