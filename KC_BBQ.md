@@ -16,7 +16,7 @@
 | Gates & Sons Bar-B-Q | Stateline, Leawood, KS | 2/5 | Meh; runny sauce |
 | The Filling Station | Lee's Summit, MO | 3/5 | Ok |
 | The Rub Bar-B-Que | Olathe, KS | 3/5 | Meh; chewy burnt ends and runny sauce |
-| Brobecks Barbeque | Kansas City, MO | 3/5 | Ok, didn't care much for the sauce |
+| Brobecks Barbeque | Kansas City, MO | 2.5/5 | Ok, didn't care much for the sauce; ribs were good |
 
 To Try:
 - Q39 (4.4 from 182)
