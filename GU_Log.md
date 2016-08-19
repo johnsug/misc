@@ -21,6 +21,7 @@
 | Blueberry Pomegranate (R) | 35mg | 2/5 | Funky taste, slight (weird) aftertaste |
 | Maple Bacon | 20mg | 2/5 | Sweet/burnt bacon, gross |
 | Tri-Berry | 20mg | 1.5/5 | Too sweet!! | 
+| Lemonade (R) | 0mg | 1.5/5 | Too sweet/thick/nasty | 
 | Jet Blackberry | 40mg | 1/5 | Tasted like cough medicine | 
 | Caramel Maccihiato | 40mg | 1/5 | Nasty |
 | Salted Watermelon | 20mg | 1/5 | Soapy melon |
