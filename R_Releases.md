@@ -1,6 +1,7 @@
 
 | Release | Date     | Code Name                |
 |-------|------------|--------------------------|
+| 3.3.2 | 10-31-2016 | Sincere Pumpkin Patch |
 | 3.3.1 | 06-21-2016 | Bug in Your Hair |
 | 3.3.0 | 05-03-2016 | Supposedly Educational |
 | 3.2.5 | 04-14-2016 | Very, Very Secure Dishes | 
