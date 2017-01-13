@@ -6,6 +6,7 @@
 | Q39 | Kansas City, MO | 5/5 | Blown away; it lived up to its reputation (I tried thier chipotle-cilantro, zesty, and classic sauces; all three were vinegar-based, but still pretty good -- I liked the original the best) | 
 | Jon Russell's Barbeque | Overland Park, KS | 4/5 | Pretty good |
 | Arby's | (everywhere) | 4/5 | Surprisingly very happy with their brisket sandwich |
+| Jack Stack | Kansas City, MO | 3.5/5 | Better than average, but I guess I was expecting more? Burnt ends were ok, ribs good, but wasn't crazy about the runny sauce |
 | Three Little Pigs BBQ | Crown Center, Kansas City, MO | 2/5 | Meh |
 | Johnny's BBQ Olathe | Olathe, KS | 2/5 | Meh + runny red-sauce |
 | Smokin' Joe's BBQ | Olathe, KS | 2/5 | Meh; runny red-sauce, meat tasted microwaved (fool me twice, shame on me) |
@@ -22,7 +23,6 @@
 
 
 To Try:
-- Jack Stack (4.6 from 118)
 - Summit Hickory Pit BBQ (4.3 from 55)
 - LC's Bar-B-Q (4.0 from 111)
 - BB Lawnside BBQ (4.3 from 105)
