@@ -1,6 +1,8 @@
 
 | Release | Date     | Code Name                |
 |-------|------------|--------------------------|
+| 3.4.0 | 04-15-2017 | (Expected...) |
+| 3.3.3 | 03-06-2017 | Another Canoe | 
 | 3.3.2 | 10-31-2016 | Sincere Pumpkin Patch |
 | 3.3.1 | 06-21-2016 | Bug in Your Hair |
 | 3.3.0 | 05-03-2016 | Supposedly Educational |
