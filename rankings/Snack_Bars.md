@@ -1,4 +1,21 @@
 
+## Snack / Energy Bars
+
+### init
+
+### Larabar
+
+### Rx Bars
+
+### Bonk Breaker
+
+### Endo Bars
+
+### Picky Bars
+
+### Kind
+
+
 | brand | flavor | rating | price/bar | calories | fat | sodium | carbs | fiber | sugars | protein |
 |-------|--------|--------|-----------|----------|-----|--------|-------|-------|--------|---------|
 | init | Mixed Nuts and Sweet Berries | 5/5 | $0.80 | 180 | 9g | 30mg | 24g | 4g | 11g | 3g |
@@ -33,7 +50,6 @@
 | Enduro Bites | Fig and Dark Chocolate | | | | | | | | | |
 | Picky Bars | Cookie Doughpness | | | | | | | | | |
 | Picky Bars | Ah Fudge Nuts | | | | | | | | | |
-| | | | | | | | | | | |
 
 
 
