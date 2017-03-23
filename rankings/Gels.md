@@ -30,3 +30,15 @@
 | Gu | Strawberry Kiwi (R) | 0mg | | |
 | Gu | Lemonade (R) | 0mg | | |
 | Gu | ~~Espresso Love~~ | ~~40mg~~ | | |
+| Clif | Chocolate | 0mg | 4/5 | ok, but I liked GU chocolate a bit better |
+| Clif | Chocolate Cherry | 100mg | 3/5 | ok; dark chocolately |
+| Clif | Citrus | 25 mg | 3/5 | ok taste, nothing to write home about; a tad too sweet |
+| Clif | Razz | 0mg | 2.5/5 | super sweet -> weird sour taste/aftertaste; stomach not happy afterwards |
+| Clif | Strawberry | 25mg | 2.5/5 | like razz, started very sweet, ended with a weird sour taste |
+| Clif | Vanilla | 0mg | 4/5 | solid flavor (cream cheese frosting) |
+| Honey Stinger | Chocolate Gel | 32mg | 3/5 | Decent flavor, not super thick, but had GI issues afterwards |
+| Honey Stinger | Mango Orange Gel | 0mg | 4.5/5 | Good flavor, sweet but not too sweet, not super thick |
+| Honey Stinger | Vanilla Gel | 0mg | | |
+| Honey Stinger | Acai-Pomegranate Gel | 0mg | | |
+| Honey Stinger | Fruit Smoothie Gel | 0mg | | |
+| Honey Stinger | Strawberry Kiwi Gel | 32mg | | |
