@@ -68,6 +68,6 @@
 | Pumpkin Spice | /5 | |
 | Blueberry | /5 | |
 | Peanut Butter | /5 | |
-| Maple Sea Salt | 2/5 | nicht sehr gut |
+| Maple Sea Salt | 2/5 | nicht sehr gut :( could not finish |
 
 *too difficult to eat during a run, unfortunately; better for post-workout fueling*
