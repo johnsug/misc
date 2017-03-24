@@ -21,9 +21,22 @@
 | Lemonade Chew | 0mg | | |
 | Pomegranate Passion Chew | 0mg | | |
 
-### Jelly Belly
+### Jelly Belly Sports Beans
 
 | Flavor | C  | Rating | Thoughts |
 |--------|----|--------|----------|
-| Assorted | | 3.5/5 | OK; I liked the beans, but want to try other flavors |
+| Assorted | 0mg | 3.5/5 | OK; I liked the beans (not really the pear), but want to try other flavors |
+| Assorted | 50mg | /5 | | 
+| Fruit Punch | 0mg | /5 | | 
+| Green Apple | 0mg | /5 | |
+| Watermelon | 50mg | 3/5 | did not like the aftertaste |
+
+### Glukos
+
+| Flavor | C  | Rating | Thoughts |
+|--------|----|--------|----------|
+| Fruit Punch | | /5 | |
+| Orange | | /5 | |
+| Lemon | | /5 | |
+| | | /5 | |
 
