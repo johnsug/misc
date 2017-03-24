@@ -14,11 +14,11 @@
 
 | Flavor | Rating | Thoughts |
 |--------|--------|----------|
-| Pressed Mango Apple Chia | 4.5/5 | |
+| Pressed Mango Apple Chia | 4.5/5 | like mana |
 | Pressed Strawberry Apple Chia | 4/5 | |
 | Pressed Apricot Pear Carrot Beat | /5 | | 
 | Pressed Pineapple Coconut | /5 | |
-| Pressed Pineapple Banana Kale Spinach | 3/5 | |
+| Pressed Pineapple Banana Kale Spinach | 3/5 | ok |
 | Pressed Cherry Apple Chia | /5 | |
 | Breakfast Blueberry Almond | 4/5 | | 
 
