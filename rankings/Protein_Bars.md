@@ -16,8 +16,8 @@
 
 | Flavor | Rating | Thoughts |
 |--------|--------|----------|
-| Lemon Cranberry | /5 | |
 | Fig and Dark Chocolate | /5 | | 
+| Lemon Cranberry | 2/5 | not pleasant, difficult to get down |
 
 ### Picky Bars
 
