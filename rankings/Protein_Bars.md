@@ -30,7 +30,7 @@
 
 | Flavor | Rating | Thoughts |
 |--------|--------|----------|
-| Chocolate Sea Salt | 5/5 | |
+| Chocolate Sea Salt | 5/5 | realyl good, taste might even compensate for difficulty in eating during a run |
 | Coconut Cacao | 3/5 | edible, but not excited to eat another |
 | Mint Chocolate | /5 | |
 | Apple Cinnamon | /5 | |
