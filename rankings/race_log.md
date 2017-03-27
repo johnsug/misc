@@ -2,7 +2,7 @@
 | Date | Race | Time | Avg Pace |
 |------|------|------|----------|
 | 11/24/2011 | Atlanta Thanksgiving Half | 1:51:32 | 8:31* |
-| 11/09/2012 | Tennessee Ragnar | ... | ... |
+| 11/09/2012 | Tennessee Ragnar | N/A | N/A |
 | 11/22/2012 | Atlanta Thanksgiving Half | 2:04:15 | 9:29|
 | 4/11/2015 | Rock the Parkway | 2:00:26 | 9:11 |
 | 4/18/2015 | Garmin Half | 2:05:40 | 9:41 |
