@@ -31,12 +31,12 @@
 | Flavor | Rating | Thoughts |
 |--------|--------|----------|
 | Chocolate Sea Salt | 5/5 | really good, taste might even compensate for difficulty in eating during a run |
-| Coconut Cacao | 3/5 | edible, but not excited to eat another |
+| Apple Cinnamon | 4/5 | a tad too sweet, but good |
 | Mint Chocolate | 3.5/5 | ok |
-| Apple Cinnamon | /5 | |
-| Pumpkin Spice | /5 | |
+| Coconut Cacao | 3/5 | edible, but not excited to eat another |
 | Blueberry | /5 | |
 | Peanut Butter | /5 | |
 | Maple Sea Salt | 1/5 | nicht sehr gut / could not finish |
+| Pumpkin Spice | /5 | |
 
 *too difficult to eat during a run, unfortunately; better for post-workout fueling*
