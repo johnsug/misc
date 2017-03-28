@@ -38,5 +38,3 @@
 | Fruit Punch | | /5 | |
 | Orange | | /5 | |
 | Lemon | | /5 | |
-| | | /5 | |
-
