@@ -25,12 +25,11 @@
 | Tri-Berry | 20mg | 1.5/5 | Too sweet!! | 
 | Lemonade (R) | 0mg | 1.5/5 | Too sweet/thick/nasty | 
 | Jet Blackberry | 40mg | 1/5 | Tasted like cough medicine | 
-| Pineapple (R) | 0mg | 1.5 | Too sweet |
+| Pineapple (R) | 0mg | 1/5 | Too sweet |
 | Caramel Maccihiato | 40mg | 1/5 | Nasty |
 | Salted Watermelon | 20mg | 1/5 | Soapy melon |
 | Vanilla Spice (R) | 35mg | | |
 | Strawberry Kiwi (R) | 0mg | | |
-| Lemonade (R) | 0mg | | |
 | ~~Espresso Love~~ | ~~40mg~~ | | |
 
 ### Clif Shots
