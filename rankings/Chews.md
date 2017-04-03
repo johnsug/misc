@@ -25,16 +25,16 @@
 
 | Flavor | C  | Rating | Thoughts |
 |--------|----|--------|----------|
+| Green Apple | 0mg | 4/5 | Not bad |
 | Assorted | 0mg | 3.5/5 | OK; I liked the beans (not really the pear), but want to try other flavors |
 | Assorted | 50mg | /5 | | 
-| Fruit Punch | 0mg | /5 | | 
-| Green Apple | 0mg | 4/5 | Not bad |
+| Fruit Punch | 0mg | 3.5/5 | not really my favorite | 
 | Watermelon | 50mg | 3/5 | did not like the aftertaste |
 
 ### Glukos
 
 | Flavor | C  | Rating | Thoughts |
 |--------|----|--------|----------|
-| Fruit Punch | | /5 | |
+| Fruit Punch | | 3.5/5 | ok, a bit difficult to chew |
 | Orange | | /5 | |
 | Lemon | | /5 | |
