@@ -5,5 +5,5 @@
 | soul | ? | orange | souls / powers & abilities | ? | ? |
 | mind | the Scepter | yellow | mental / psionic power | Vision | Civil War |
 | time | the Eye of Agamotto | green | time | Wong / Kamar-Taj library  | Dr. Strange |
-| space | the Tesseract | blue | teleportation | Asgard / Odin's Vault | The Avengers  |
+| space | the Tesseract | blue | teleportation | Loki | Ragnarok  |
 | power | the Orb | purple | immense power / boosts other gems | Xandar / Nova Corps' Vault | Guardians of the Galaxy |
