@@ -7,7 +7,7 @@
 | Sweet and Sour (preow wan) | ***** | Superb, though I feel unsophisticated when I order it :/ | 
 | Red Curry | **** | |
 | Yellow Curry | | 
-| Green Curry | | 
+| Green Curry | *** | (better homemade?) | 
 | Panang Curry | *** | OK, a bit nutty |
 | Masamam  Curry | | 
 | Pad Thai | **** | Solid; no complaints |
