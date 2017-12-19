@@ -1,12 +1,20 @@
 
 ## Energy Chews Flavor Log
 
+### Glukos
+
+| Flavor | C  | Rating | Thoughts |
+|--------|----|--------|----------|
+| Orange | | 4.5/5 | (maybe slightly better than lemon?) no gastric distress |
+| Lemon | | 4.5/5 | no gastric distress |
+| Fruit Punch | | 3.5/5 | (need to try again) |
+
 ### Gu
 
 | Flavor | C  | Rating | Thoughts |
 |--------|----|--------|----------|
 | Strawberry Chews | 0mg | 2/5 | ok taste, weird smell and aftertaste |
-| Blueberry Chews | 0mg | 4/5 | ok taste, better than strawberry; no aftertaste |
+| Blueberry Chews | 0mg | 3.5/5 | ok taste, better than strawberry; no aftertaste |
 
 ### Honey Stinger
 
@@ -30,11 +38,3 @@
 | Assorted | 50mg | /5 | | 
 | Fruit Punch | 0mg | 3.5/5 | not really my favorite | 
 | Watermelon | 50mg | 3/5 | did not like the aftertaste |
-
-### Glukos
-
-| Flavor | C  | Rating | Thoughts |
-|--------|----|--------|----------|
-| Orange | | 4.5/5 | (maybe slightly better than lemon?) no gastric distress |
-| Lemon | | 4.5/5 | no gastric distress |
-| Fruit Punch | | 3.5/5 | (need to try again) |
