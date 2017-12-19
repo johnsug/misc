@@ -35,6 +35,6 @@
 
 | Flavor | C  | Rating | Thoughts |
 |--------|----|--------|----------|
-| Fruit Punch | | 3.5/5 | ok, a bit difficult to chew |
-| Orange | | /5 | |
-| Lemon | | /5 | |
+| Orange | | 4.5/5 | (maybe slightly better than lemon?) no gastric distress |
+| Lemon | | 4.5/5 | no gastric distress |
+| Fruit Punch | | 3.5/5 | (need to try again) |
