@@ -32,4 +32,4 @@
 | Candy Bar | 8g | /5 | **prioritize** |
 | Gingerbread House | 8g | /5 | *(seasonal only)* |
 | Cinnamon Roll | 10g | /5 | 10g! ouch... |
-| Pumpkin Pie^ | 10g | /5 | 10g! *(seasonal only)* |
+| Pumpkin Pie | 10g | /5 | 10g! *(seasonal only)* |
