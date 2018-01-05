@@ -5,7 +5,7 @@
 
 | Flavor | Net Carbs | Rating | Thoughts |
 |--------|-----------|--------|----------|
-| PB Cup | 6g | /5 | Gold standard |
+| PB Cup | 6g | 4.5/5 | was the gold standard, but cookie dough is making me question that... |
 | Sea Salt Caramel | 7g | 4.5/5 | very good |
 | Cookie Dough| 8g | 4.5/5 | very good, but a *tad* too sweet |
 | Lemon Cake | 5g | 2.5/5 | ok, but a little flat; wouldn't try again |
