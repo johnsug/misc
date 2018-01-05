@@ -33,16 +33,16 @@
 
 | Flavor | Net Carbs | Rating | Thoughts |
 |--------|-----------|--------|----------|
-| Choc Almond Crunch | 5g | /5 | *meh, could do without; read "the chocolate is a complete miss here"... but others say it tastes like marzipan? * |
+| Choc Almond Crunch | 5g | /5 | *meh, could do without; read "the chocolate is a complete miss here"... but others say it tastes like marzipan?* |
 | Black Cherry | 5g | /5 | *ditto* |
 | Pistachio | 5g | /5 | *probably not* |
 | Strawberry | 6g | /5 | *meh* |
 | Choc Mocha Chip | 6g | /5 | *don't like coffee* |
 | S'mores | 8g | /5 | *maybe, reviewed well* |
-| Cookies and Cream | 8g | /5 | *maybe, heard mixed reviews eg "tastes like Cookie Crisp"* |
+| Cookies and Cream | 8g | /5 | *maybe, heard mixed reviews, e.g. "tastes like Cookie Crisp"* |
 | Pancakes & Waffles | 8g | /5 | *maybe, but not sure carbs are worth it...* |
 | Caramel Macchiato | 8g | /5 | *don't like coffee* |
-| Mochi Green Tea | 8g | /5 | *read it's nothing special / no flavor* |
+| Mochi Green Tea | 8g | /5 | *read it's nothing special / no real flavor* |
 | Gingerbread House | 8g | /5 | *(seasonal only)* |
 | Cinnamon Roll | 10g | /5 | 10g! ouch... |
 | Pumpkin Pie | 10g | /5 | 10g! *(seasonal only)* |
