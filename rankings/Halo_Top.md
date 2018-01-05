@@ -12,6 +12,8 @@
 
 ### Cute Without the E (sorted by rank)
 
+| Flavor        | Net Carbs | Rating | Thoughts |
+|---------------|-----------|--------|----------|
 | Lemon Cake | 5g | 2.5/5 | ok, but a little flat; wouldn't try again |
 | Chocolate | 5g | 2.5/5 | accidently bought, sad dissapointment; was expecting PB Cup's chocolate, was left with a sad, melted fudgesicle |
 | Vanilla Bean | 5g | 2/5 | sad dissapointment, did not finish *(was hoping it'd be more like the base of cookie dough; nope, not at all)* 
