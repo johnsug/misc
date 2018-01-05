@@ -9,7 +9,7 @@
 | Sea Salt Caramel | 7g | 4.5/5 | very good |
 | Cookie Dough| 8g | 4.5/5 | very good, but a *tad* too sweet |
 | Lemon Cake | 5g | 2.5/5 | ok, but a little flat; wouldn't try again |
-| Vanilla Bean | 5g | 2/5 | sad dissapointment, did not finish *(was expecting the vanilla from cookies and cream)* |
+| Vanilla Bean | 5g | 2/5 | sad dissapointment, did not finish *(was hoping it'd be more like the base of cookie dough...)* |
 | Chocolate Banana | 7g | /5 | |
 | Red Velvet | 8g | /5 | |
 
