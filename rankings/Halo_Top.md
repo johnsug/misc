@@ -50,4 +50,4 @@
 | Caramel Macchiato | 8g | /5 | *don't like coffee* |
 | Mochi Green Tea | 8g | /5 | *read it's nothing special / no real flavor* |
 | Cinnamon Roll | 10g | /5 | *10g! ouch... but reviewed well* |
-| Pumpkin Pie | 10g | /5 | *10g! but reviewed well* **seasonal only** |
+| Pumpkin Pie | 10g | /5 | *10g! but reviewed well;* **seasonal only** |
