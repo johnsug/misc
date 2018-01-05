@@ -34,7 +34,7 @@
 | Mint Chip | 6g | /5 | *maybe a little iffy; some like, others say it tastes like toothpaste* |
 | S'mores | 8g | /5 | *maybe, reviewed well* |
 | Red Velvet | 8g | /5 | *still on the fence, though many rate it highly* |
-| Gingerbread House | 8g | /5 | *seasonal only* |
+| Gingerbread House | 8g | /5 | **seasonal only** |
 
 ### Probably Won't Try (sorted by net carbs)
 
@@ -49,5 +49,5 @@
 | Pancakes & Waffles | 8g | /5 | *maybe, but not sure carbs are worth it...* |
 | Caramel Macchiato | 8g | /5 | *don't like coffee* |
 | Mochi Green Tea | 8g | /5 | *read it's nothing special / no real flavor* |
-| Cinnamon Roll | 10g | /5 | 10g! ouch... |
-| Pumpkin Pie | 10g | /5 | 10g! *seasonal only* |
+| Cinnamon Roll | 10g | /5 | *10g! ouch... but reviewed well* |
+| Pumpkin Pie | 10g | /5 | *10g! but reviewed well* **seasonal only** |
