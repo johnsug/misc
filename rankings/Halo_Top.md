@@ -22,11 +22,17 @@
 
 | Flavor | Net Carbs | Rating | Thoughts |
 |--------|-----------|--------|----------|
-| Mint Chip | 6g | /5 | *maybe a little iffy; some like, others say it tastes like toothpaste* |
 | Oatmeal Cookie | 6g | /5 | |
 | Rainbow Swirl | 6g | /5 | |
 | Birthday Cake | 6g | /5 | |
 | Candy Bar | 8g | /5 | |
+
+### Maybe (sorted by net carbs)
+
+| Flavor | Net Carbs | Rating | Thoughts |
+|--------|-----------|--------|----------|
+| Mint Chip | 6g | /5 | *maybe a little iffy; some like, others say it tastes like toothpaste* |
+| S'mores | 8g | /5 | *maybe, reviewed well* |
 | Red Velvet | 8g | /5 | *still on the fence, though many rate it highly* |
 
 ### Probably Won't Try (sorted by net carbs)
@@ -34,12 +40,11 @@
 | Flavor | Net Carbs | Rating | Thoughts |
 |--------|-----------|--------|----------|
 | Choc Almond Crunch | 5g | /5 | *meh, could do without; read "the chocolate is a complete miss here"... but others say it tastes like marzipan?* |
-| Black Cherry | 5g | /5 | *ditto* |
-| Pistachio | 5g | /5 | *probably not* |
+| Black Cherry | 5g | /5 | *meh* |
+| Pistachio | 5g | /5 | *meh* |
 | Strawberry | 6g | /5 | *meh* |
 | Choc Mocha Chip | 6g | /5 | *don't like coffee* |
-| S'mores | 8g | /5 | *maybe, reviewed well* |
-| Cookies and Cream | 8g | /5 | *maybe, heard mixed reviews, e.g. "tastes like Cookie Crisp"* |
+| Cookies and Cream | 8g | /5 | *meh; heard mixed reviews, e.g. "tastes like Cookie Crisp"* |
 | Pancakes & Waffles | 8g | /5 | *maybe, but not sure carbs are worth it...* |
 | Caramel Macchiato | 8g | /5 | *don't like coffee* |
 | Mochi Green Tea | 8g | /5 | *read it's nothing special / no real flavor* |
