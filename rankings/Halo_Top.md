@@ -9,7 +9,7 @@
 | Sea Salt Caramel | 7g | 4.5/5 | very good (but need to try again) |
 | Cookie Dough| 8g | 4.5/5 | very good, but perhaps a *tad* too sweet? |
 | Lemon Cake | 5g | 2.5/5 | ok, but a little flat; wouldn't try again |
-| Vanilla Bean | 5g | 2/5 | sad dissapointment, did not finish *(was hoping it'd be more like the base of cookie dough...)* |
+| Vanilla Bean | 5g | 2/5 | sad dissapointment, did not finish *(was hoping it'd be more like the base of cookie dough; nope, not at all)* |
 | Chocolate Banana | 7g | /5 | |
 | Red Velvet | 8g | /5 | |
 
@@ -20,7 +20,7 @@
 | Chocolate | 5g | /5 | *meh, could do without* |
 | Choc Almond Crunch | 5g | /5 | *ditto* |
 | Black Cherry | 5g | /5 | *ditto* |
-| Pistachio | 5g | /5 | *(probably not)* |
+| Pistachio | 5g | /5 | *probably not* |
 | Birthday Cake | 6g | /5 | *still on the fence* |
 | Mint Chip | 6g | /5 | **prioritize** |
 | Strawberry | 6g | /5 | *meh* |
