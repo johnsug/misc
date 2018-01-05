@@ -13,7 +13,7 @@
 
 | Flavor | Net Carbs | Rating | Thoughts |
 |--------|-----------|--------|----------|
-| Chocolate Banana | 7g | 3.5/5 | liked the banana flavor (laffy taffy!), but not sure I'd buy again |
+| Chocolate Banana | 7g | 3.5/5 | liked the banana flavor (Laffy Taffy!), but not sure I'd buy again |
 | Lemon Cake | 5g | 2.5/5 | ok, but a little flat; wouldn't try again |
 | Chocolate | 5g | 2.5/5 | accidently bought, sad dissapointment; was expecting PB Cup's chocolate, was left with a sad, melted fudgesicle |
 | Vanilla Bean | 5g | 2/5 | sad dissapointment, did not finish *(was hoping it'd be more like the base of cookie dough; nope, not at all)* 
