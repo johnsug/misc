@@ -49,5 +49,5 @@
 | Pancakes & Waffles | 8g | /5 | *maybe, but not sure carbs are worth it...* |
 | Caramel Macchiato | 8g | /5 | *don't like coffee* |
 | Mochi Green Tea | 8g | /5 | *read it's nothing special / no real flavor* |
-| Cinnamon Roll | 10g | /5 | *10g! ouch... but reviewed well* |
+| Cinnamon Roll | 10g | /5 | *10g! ouch... but reviewed well ("like a Cinnabon!")* |
 | Pumpkin Pie | 10g | /5 | *10g! but reviewed well;* **seasonal only** |
