@@ -22,14 +22,14 @@
 | Black Cherry | 5g | /5 | *ditto* |
 | Pistachio | 5g | /5 | *(probably not)* |
 | Birthday Cake | 6g | /5 | *still on the fence* |
-| Mint Chip | 6g | /5 | *prioritize* |
+| Mint Chip | 6g | /5 | **prioritize** |
 | Strawberry | 6g | /5 | *meh* |
-| Oatmeal Cookie | 6g | /5 | *prioritize* |
-| Rainbow Swirl | 6g | /5 | *try next* |
+| Oatmeal Cookie | 6g | /5 | **prioritize** |
+| Rainbow Swirl | 6g | /5 | **try next** |
 | S'mores | 8g | /5 | *maybe* |
 | Cookies and Cream | 8g | /5 | *maybe, heard mixed reviews* |
 | Pancakes & Waffles | 8g | /5 | *maybe, but high carbs just to experiment...* |
-| Candy Bar | 8g | /5 | *prioritize* |
+| Candy Bar | 8g | /5 | **prioritize** |
 | Gingerbread House | 8g | /5 | *(seasonal only)* |
 | Cinnamon Roll | 10g | /5 | 10g! ouch... |
 | Pumpkin Pie^ | 10g | /5 | 10g! *(seasonal only)* |
