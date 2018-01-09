@@ -14,15 +14,16 @@
 | Flavor | Net Carbs | Rating | Thoughts |
 |--------|-----------|--------|----------|
 | Chocolate Banana | 7g | 3.5/5 | liked the banana flavor (Laffy Taffy!), but not sure I'd buy again |
+| Red Velvet | 8g | /5 | |
 | Lemon Cake | 5g | 2.5/5 | ok, but a little flat; wouldn't try again |
-| Chocolate | 5g | 2.5/5 | accidently bought, sad dissapointment; was expecting PB Cup's chocolate, was left with a sad, melted fudgesicle |
-| Vanilla Bean | 5g | 2/5 | sad dissapointment, did not finish *(was hoping it'd be more like the base of cookie dough; nope, not at all)* 
+| Oatmeal Cookie | 6g | 2.5/5 | kinda blah + oats were chewy/offsetting |
+| Chocolate | 5g | 2/5 | accidently bought, sad dissapointment; was expecting PB Cup's chocolate, was left with a sad fudgesicle |
+| Vanilla Bean | 5g | 1.5/5 | sad dissapointment, did not finish *(was hoping it'd be more like the base of cookie dough; nope, not at all)* 
 
 ### Next to Try (sorted by net carbs)
 
 | Flavor | Net Carbs | Rating | Thoughts |
 |--------|-----------|--------|----------|
-| Oatmeal Cookie | 6g | /5 | |
 | Rainbow Swirl | 6g | /5 | |
 | Birthday Cake | 6g | /5 | |
 | Candy Bar | 8g | /5 | |
@@ -33,7 +34,6 @@
 |--------|-----------|--------|----------|
 | Mint Chip | 6g | /5 | *maybe a little iffy; some like, others say it tastes like toothpaste* |
 | S'mores | 8g | /5 | *maybe, reviewed well* |
-| Red Velvet | 8g | /5 | *still on the fence, though many rate it highly* |
 | Gingerbread House | 8g | /5 | **seasonal only** |
 
 ### Probably Won't Try (sorted by net carbs)
