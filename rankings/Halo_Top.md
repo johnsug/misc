@@ -13,8 +13,8 @@
 
 | Flavor | Net Carbs | Rating | Thoughts |
 |--------|-----------|--------|----------|
-| Chocolate Banana | 7g | 3.5/5 | liked the banana flavor (Laffy Taffy!), but not sure I'd buy again |
-| Red Velvet | 8g | /5 | |
+| Chocolate Banana | 7g | 3.5/5 | liked the banana flavor (Laffy Taffy!) though chocolate was a little off-setting; would probably only buy again if really craving banana Laffy Taffy flavor |
+| Red Velvet | 8g | 3/5 | it's ok (better when I'm not looking at it), though probably wouldn't buy again |
 | Lemon Cake | 5g | 2.5/5 | ok, but a little flat; wouldn't try again |
 | Oatmeal Cookie | 6g | 2.5/5 | kinda blah + oats were chewy/offsetting |
 | Chocolate | 5g | 2/5 | accidently bought, sad dissapointment; was expecting PB Cup's chocolate, was left with a sad fudgesicle |
