@@ -7,15 +7,16 @@
 |--------|-----------|--------|----------|
 | PB Cup | 6g | 4.5/5 | was the gold standard, but Cookie Dough is making me question that... (but might still squeak ahead due to its lower carb count) |
 | Cookie Dough| 8g | 4.5/5 | very good, but perhaps a *tad* too sweet/too many net carbs? |
-| Sea Salt Caramel | 7g | 4*/5 | *I remember it being very good but need to try it again* |
+| Sea Salt Caramel | 7g | 4.5/5 | very good, although sweet; base similar but not exactly the same as Cookie Dough's base |
 
 ### Cute Without the E (sorted by rank)
 
 | Flavor | Net Carbs | Rating | Thoughts |
 |--------|-----------|--------|----------|
+| Birthday Cake | 6g | /5 | |
 | Chocolate Banana | 7g | 3.5/5 | liked the banana flavor (Laffy Taffy!) though chocolate was a little off-setting; would probably only buy again if really craving banana Laffy Taffy flavor |
 | Rainbow Swirl | 6g | /5 | |
-| Red Velvet | 8g | 3/5 | decent |
+| Red Velvet | 8g | 3/5 | decent, though higher carb |
 | Lemon Cake | 5g | 2.5/5 | ok, but a little flat; wouldn't try again |
 | Oatmeal Cookie | 6g | 2.5/5 | kinda blah + oats were chewy/offsetting |
 | Chocolate | 5g | 2/5 | accidently bought, sad dissapointment; was expecting PB Cup's chocolate, was left with a sad fudgesicle |
@@ -25,7 +26,6 @@
 
 | Flavor | Net Carbs | Rating | Thoughts |
 |--------|-----------|--------|----------|
-| Birthday Cake | 6g | /5 | |
 | Candy Bar | 8g | /5 | |
 
 ### Maybe (sorted by net carbs)
