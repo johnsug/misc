@@ -14,7 +14,7 @@
 | Flavor | Net Carbs | Rating | Thoughts |
 |--------|-----------|--------|----------|
 | Birthday Cake | 6g | 3/5 | tastes exactly like birthday cake; buy on special cakeday celebrations only? |
-| Chocolate Banana | 7g | 3.5/5 | liked the banana flavor (Laffy Taffy!) though chocolate was a little off-setting; would probably only buy again if really craving banana Laffy Taffy flavor |
+| Chocolate Banana | 7g | 3.5/5 | liked the banana flavor (Laffy Taffy!) but the chocolate sort of brought it down... maybe buy again if craving Laffy Taffy banana ? |
 | Rainbow Swirl | 6g | /5 | |
 | Red Velvet | 8g | 3/5 | decent, though higher carb |
 | Lemon Cake | 5g | 2.5/5 | ok, but a little flat; wouldn't try again |
@@ -33,7 +33,7 @@
 | Flavor | Net Carbs | Rating | Thoughts |
 |--------|-----------|--------|----------|
 | Mint Chip | 6g | /5 | *maybe a little iffy; some like, others say it tastes like toothpaste* |
-| S'mores | 8g | /5 | weird marshmallow cream with weirder hard crunches; each bite was more and more disappointing :( |
+| S'mores | 8g | /5 | weird marshmallow cream with weirder small hard crunches; each bite was more and more disappointing :( |
 | Gingerbread House | 8g | /5 | **seasonal only** |
 
 ### Probably Won't Try (sorted by net carbs)
