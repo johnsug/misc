@@ -13,7 +13,7 @@
 
 | Flavor | Net Carbs | Rating | Thoughts |
 |--------|-----------|--------|----------|
-| Birthday Cake | 6g | /5 | |
+| Birthday Cake | 6g | 3/5 | tastes exactly like birthday cake; buy on special cakeday celebrations only? |
 | Chocolate Banana | 7g | 3.5/5 | liked the banana flavor (Laffy Taffy!) though chocolate was a little off-setting; would probably only buy again if really craving banana Laffy Taffy flavor |
 | Rainbow Swirl | 6g | /5 | |
 | Red Velvet | 8g | 3/5 | decent, though higher carb |
