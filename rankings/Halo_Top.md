@@ -33,7 +33,7 @@
 | Flavor | Net Carbs | Rating | Thoughts |
 |--------|-----------|--------|----------|
 | Mint Chip | 6g | /5 | *maybe a little iffy; some like, others say it tastes like toothpaste* |
-| S'mores | 8g | /5 | *maybe, reviewed well* |
+| S'mores | 8g | /5 | weird marshmallow cream with weirder hard crunches; each bite was more and more disappointing :( |
 | Gingerbread House | 8g | /5 | **seasonal only** |
 
 ### Probably Won't Try (sorted by net carbs)
