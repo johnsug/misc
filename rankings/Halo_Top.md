@@ -13,7 +13,7 @@
 
 | Flavor | Net Carbs | Rating | Thoughts |
 |--------|-----------|--------|----------|
-| Rainbow Swirl | 6g | /5 | |
+| Rainbow Swirl | 6g | 1.5/5 | gross, could not finish (I guess I'm to blame... I was expecting it to taste like rainbow sherbet, but nope, not at all; just fruity disappointment) |
 | Candy Bar | 8g | /5 | |
 
 ### Cute Without the E (sorted by rank)
@@ -26,10 +26,10 @@
 | Lemon Cake | 5g | 2.5/5 | ok, but a little flat; wouldn't try again |
 | Oatmeal Cookie | 6g | 2.5/5 | kinda blah + oats were chewy/offsetting |
 | Chocolate | 5g | 2/5 | accidently bought, sad dissapointment; was expecting PB Cup's chocolate, was left with a sad fudgesicle |
-| S'mores | 8g | 2/5 | weird marshmallow cream with weirder small hard crunches; each bite was more and more disappointing :( |
+| S'mores | 8g | 2.5/5 | weird marshmallow cream with weirder small hard crunches; each bite was more and more disappointing :( |
 | Vanilla Bean | 5g | 1.5/5 | sad dissapointment, did not finish *(was hoping it'd be more like the base of cookie dough; nope, not at all)* 
 
-### Maybe (sorted by net carbs)
+### Maybe Try (sorted by net carbs)
 
 | Flavor | Net Carbs | Rating | Thoughts |
 |--------|-----------|--------|----------|
