@@ -9,7 +9,7 @@
 | Chocolate      | /5    |  |
 | PB Chocolate   | /5    |  |
 | Cookies/Cream  | /5    |  |
-| Strawberry     | /5    |  |
+| Strawberry     | 2.5/5 | suuuuper sweet |
 
 
 
