@@ -16,8 +16,8 @@
 | Birthday Cake | 6g | 3.5/5 | tastes exactly like birthday cake; buy on special cakeday celebrations only? |
 | Chocolate Banana | 7g | 3.5/5 | liked the banana flavor (Laffy Taffy!) but the chocolate sort of brought it down... maybe buy again if craving Laffy Taffy banana ? |
 | Red Velvet | 8g | 3.5/5 | decent, though higher carb |
-| Lemon Cake | 5g | 3/5 | *maybe try again? |
-| Mint Chip | 6g | 2.5/5 | mint sensation VERY strong |
+| Lemon Cake | 5g | 3/5 | didn't really like, but *maybe* try again?? |
+| Mint Chip | 6g | 2.5/5 | mint sensation VERY strong, chocolate chips very bitter... |
 | Oatmeal Cookie | 6g | 2.5/5 | kinda blah + oats were chewy/offsetting |
 | Candy Bar | 8g | 2.5/5 | first time ok w/ a spoon of peanut butter; second time raw was unimpressed / nuts not very pleasant |
 | S'mores | 8g | 2.5/5 | weird coconut/marshmallow cream flavor with weirder small, hard crunches; each bite was more and more disappointing :( |
