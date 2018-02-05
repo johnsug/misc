@@ -16,6 +16,7 @@
 | Birthday Cake | 6g | 3.5/5 | tastes exactly like birthday cake; buy on special cakeday celebrations only? |
 | Chocolate Banana | 7g | 3.5/5 | liked the banana flavor (Laffy Taffy!) but the chocolate sort of brought it down... maybe buy again if craving Laffy Taffy banana ? |
 | Red Velvet | 8g | 3.5/5 | decent, though higher carb |
+| Cookies and Cream | 8g | */5 | taste is ok; hint of coconut but otherwise no real flavor? |
 | Lemon Cake | 5g | 3/5 | didn't really like, but *maybe* try again?? |
 | Mint Chip | 6g | 2.5/5 | mint sensation VERY strong, chocolate chips very bitter... |
 | Oatmeal Cookie | 6g | 2.5/5 | kinda blah + oats were chewy/offsetting |
@@ -30,7 +31,6 @@
 | Flavor | Net Carbs | Rating | Thoughts |
 |--------|-----------|--------|----------|
 | Choc Almond Crunch | 5g | /5 | *meh, could do without; read "the chocolate is a complete miss here"... but others say it tastes like marzipan?* |
-| Cookies and Cream | 8g | /5 | *meh; heard mixed reviews, e.g. "tastes like Cookie Crisp"* |
 | Pancakes & Waffles | 8g | /5 | *maybe, but not sure carbs are worth it...* |
 | Gingerbread House | 8g | /5 | **seasonal only** |
 
