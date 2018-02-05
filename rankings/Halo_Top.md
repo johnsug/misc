@@ -16,14 +16,14 @@
 | Birthday Cake | 6g | 3.5/5 | tastes exactly like birthday cake; buy on special cakeday celebrations only? |
 | Chocolate Banana | 7g | 3.5/5 | liked the banana flavor (Laffy Taffy!) but the chocolate sort of brought it down... maybe buy again if craving Laffy Taffy banana ? |
 | Red Velvet | 8g | 3.5/5 | decent, though higher carb |
-| Cookies and Cream | 8g | */5 | taste is ok; hint of coconut but otherwise no real flavor? |
+| Cookies and Cream | 8g | */5 | taste is ok; hint of coconut, hint of oreo, but otherwise no real flavor? |
 | Lemon Cake | 5g | 3/5 | didn't really like, but *maybe* try again?? |
 | Mint Chip | 6g | 2.5/5 | mint sensation VERY strong, chocolate chips very bitter... |
 | Oatmeal Cookie | 6g | 2.5/5 | kinda blah + oats were chewy/offsetting |
 | Candy Bar | 8g | 2.5/5 | first time ok w/ a spoon of peanut butter; second time raw was unimpressed / nuts not very pleasant |
 | S'mores | 8g | 2.5/5 | weird coconut/marshmallow cream flavor with weirder small, hard crunches; each bite was more and more disappointing :( |
 | Chocolate | 5g | 2/5 | accidently bought, sad dissapointment; was expecting PB Cup's chocolate, was left with a sad fudgesicle |
-| Rainbow Swirl | 6g | 1.5/5 | gross, could not finish (I guess I'm to blame... I was expecting it to taste like rainbow sherbet, but nope, not at all; just fruity disappointment) |
+| Rainbow Swirl | 6g | 1.5/5 | gross, could not finish (*I guess I'm to blame... I was expecting it to taste like rainbow sherbet, but nope, not at all; just fruity disappointment*) |
 | Vanilla Bean | 5g | 1.5/5 | sad dissapointment, did not finish *(was hoping it'd be more like the base of cookie dough; nope, not at all)* 
 
 ### Maybe Try (sorted by net carbs)
