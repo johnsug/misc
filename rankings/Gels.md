@@ -36,10 +36,8 @@
 | Salted Watermelon | 20mg | 1/5 | Soapy melon |
 | Vanilla Spice (R) | 35mg | | |
 | Strawberry Kiwi (R) | 0mg | | |
-| Chocolate Coconut (R) | 0mg | | |
 | Gingerade | 0mg| | Low expectations... |
 | Tri-Berry | 20mg | | Low expectations... |
-
 | ~~Espresso Love~~ | ~~40mg~~ | | |
 
 ### Clif Shots
