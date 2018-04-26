@@ -6,6 +6,12 @@
 | Flavor | C | Rating | Thoughts |
 |--------|---|--------|----------|
 | Sea Salt Chocolate | 35mg | 5/5 | Perfect (didnt taste the sea salt, though) |
+| Toasted Marshmallow | 0mg | 4.5/5 | Surprisingly Good | 
+| Birthday Cake | 0 mg| |
+| Campfire S'Mores | 0mg | |
+| Tutti Fruiti (R) | 35mg | |
+| Vanilla Orange (R) | 35mg | |
+| Mint Chocolate | 20mg | | |
 | Chocolate Outrage | 20mg | 4.5/5 | Very good -- gooey brownie mix (2nd packet a bit off) |
 | Chocolate Peanut Butter | 20mg | 4.5/5 | Very good, though couldn't really discern the peanut butter |
 | Vanilla Bean | 20mg | 4/5 | Good flavor |
@@ -30,6 +36,10 @@
 | Salted Watermelon | 20mg | 1/5 | Soapy melon |
 | Vanilla Spice (R) | 35mg | | |
 | Strawberry Kiwi (R) | 0mg | | |
+| Chocolate Coconut (R) | 0mg | | |
+| Gingerade | 0mg| | Low expectations... |
+| Tri-Berry | 20mg | | Low expectations... |
+
 | ~~Espresso Love~~ | ~~40mg~~ | | |
 
 ### Clif Shots
