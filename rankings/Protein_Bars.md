@@ -14,6 +14,23 @@
 | Peanut Butter Cookie | 22g (6g) | 15g | /5| |
 | Salted Caramel | 29g (12g) | 20g | /5 | |
 
+*Will **definitely** have to try these on some long runs...*
+
+### Rx Bars
+
+| Flavor | Rating | Thoughts |
+|--------|--------|----------|
+| Chocolate Sea Salt | 5/5 | really good, taste might even compensate for difficulty in eating during a run |
+| Apple Cinnamon | 4/5 | a tad too sweet, but good |
+| Peanut Butter | 4/5 | grew on me as I ate it |
+| Blueberry | 4/5 | perhaps a bit too sweet, slightly weird aftertaste |
+| Mint Chocolate | 3.5/5 | ok |
+| Coconut Cacao | 3/5 | edible, but not excited to eat another |
+| Maple Sea Salt | 1/5 | nicht sehr gut / could not finish |
+| Pumpkin Spice | /5 | |
+
+*too difficult to eat during a run, unfortunately; better for post-workout fueling*
+
 ### Bonk Breaker
 
 | Flavor | Rating | Thoughts |
@@ -33,6 +50,8 @@
 | Fig and Dark Chocolate | 2.5/5 | better than lemon cranberry, but still hard to get down | 
 | Lemon Cranberry | 2/5 | not pleasant, difficult to get down |
 
+*Meh*
+
 ### Picky Bars
 
 | Flavor | Rating | Thoughts |
@@ -40,17 +59,4 @@
 | Cookie Doughness | 3/5 | almost good, a bit hard to get down |
 | Ah Fudge Nuts | 2.5/5 | a bitter brownie; hard to get down |
 
-### Rx Bars
-
-| Flavor | Rating | Thoughts |
-|--------|--------|----------|
-| Chocolate Sea Salt | 5/5 | really good, taste might even compensate for difficulty in eating during a run |
-| Apple Cinnamon | 4/5 | a tad too sweet, but good |
-| Peanut Butter | 4/5 | grew on me as I ate it |
-| Blueberry | 4/5 | perhaps a bit too sweet, slightly weird aftertaste |
-| Mint Chocolate | 3.5/5 | ok |
-| Coconut Cacao | 3/5 | edible, but not excited to eat another |
-| Maple Sea Salt | 1/5 | nicht sehr gut / could not finish |
-| Pumpkin Spice | /5 | |
-
-*too difficult to eat during a run, unfortunately; better for post-workout fueling*
+*Meh*
