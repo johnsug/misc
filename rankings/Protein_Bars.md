@@ -38,7 +38,7 @@
 | Almond Cherry Chunk | /5 | | 
 | Salted Caramel | /5 | |
 | Mint Chocolate Chip | /5 | | 
-| Peanut Butter & Jelly | 3/5 | OK -- but not necessarily excited about eating another |
+| Peanut Butter & Jelly | 3/5 | ok -- but not necessarily excited about eating another |
 | Cookies and Cream | 3/5 | ok |
 
 *Because you can't eat the bar all at once, I don't feel it'd make good race fuel, but would work well after an event*
