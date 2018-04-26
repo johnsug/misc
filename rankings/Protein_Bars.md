@@ -7,7 +7,7 @@
 | Birthday Cake | 22g (8g) | 15g | /5 | |
 | Blueberry Waffle | 27g (9g) | 20g | /5 | |
 | Chocolate Peanut Butter | 27g (4g) | 20g | /5 | |
-| Cookies 'n Cream | 23g (9g) | 15g | /5 | |
+| Cookies 'n' Cream | 23g (9g) | 15g | /5 | |
 | Double Fudge Brownie | 28g (11g) | 20g | /5 | |
 | Double Rocky Road | 22g (9g) | 15g | /5 | |
 | Lemon Bliss | 23g (11g) | 15g | 5/5 | fantastic |
