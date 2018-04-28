@@ -11,7 +11,7 @@
 | Double Fudge Brownie | 28g (11g) | 20g | /5 | |
 | Double Rocky Road | 22g (9g) | 15g | /5 | |
 | Lemon Bliss | 23g (11g) | 15g | 5/5 | fantastic |
-| Peanut Butter Cookie | 22g (6g) | 15g | /5| |
+| Peanut Butter Cookie | 22g (6g) | 15g | 3/5| ok, edible, but wouldn't buy again |
 | Salted Caramel | 29g (12g) | 20g | /5 | |
 
 *Will **definitely** have to try these on some long runs...*
