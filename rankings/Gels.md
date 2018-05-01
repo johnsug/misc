@@ -7,7 +7,6 @@
 |--------|---|--------|----------|
 | Sea Salt Chocolate | 35mg | 5/5 | Perfect (didnt taste the sea salt, though) |
 | Toasted Marshmallow | 0mg | 4.5/5 | Surprisingly Good | 
-| Birthday Cake | 0 mg| |
 | Campfire S'Mores | 0mg | |
 | Tutti Fruiti (R) | 35mg | |
 | Vanilla Orange (R) | 35mg | |
@@ -18,8 +17,9 @@
 | Salted Caramel | 20mg | 4/5 | Good flavor |
 | Peanut Butter | 0mg | 4/5 | good, but almost chalky at the end |
 | Root Beer | 0mg | 4/5 | A tad sweet, but good taste and not too thick |
+| Strawberry Banana | 0mg | 4/5 | Almost banana-y, with a hint of strawberry; OK aftertaste |
 | Big Apple | 0mg | 3.5/5 | Very light, mild flavor; almost discernible |
-| Strawberry Banana | 0mg | 3.5/5 | Almost banana-y, with a hint of strawberry; OK aftertaste |
+| Birthday Cake | 0 mg | 3/5 | Ok, but not what I was expecting... | 
 | Lemon Sublime | 0mg | 3/5 | not a bad flavor, but weird (reminiscent of cherry lime w/o the coffee taste); not my favorite |
 | Chocolate Coconut (R) | 35mg | 3/5 | ok, coconut flavor overpowered the chocolate; not my favorite |
 | Vanilla Orange (R) | 35mg | 3/5 | Slightly off, almost burnt taste |
