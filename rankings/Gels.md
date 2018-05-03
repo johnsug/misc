@@ -16,9 +16,10 @@
 | Vanilla Bean | 20mg | 4/5 | Good flavor |
 | Salted Caramel | 20mg | 4/5 | Good flavor |
 | Peanut Butter | 0mg | 4/5 | good, but almost chalky at the end |
-| Root Beer | 0mg | 4/5 | A tad sweet, but good taste and not too thick |
 | Strawberry Banana | 0mg | 4/5 | Almost banana-y, with a hint of strawberry; OK aftertaste |
+| Root Beer | 0mg | 4/5 | A tad sweet, but good taste and not too thick |
 | Big Apple | 0mg | 3.5/5 | Very light, mild flavor; almost discernible |
+| Strawberry Kiwi (R) | 0mg | 3/5 | ok, tried to just get it down and forget about it... ok, but wouldn't buy it again |
 | Birthday Cake | 0 mg | 3/5 | Ok, but not what I was expecting... | 
 | Lemon Sublime | 0mg | 3/5 | not a bad flavor, but weird (reminiscent of cherry lime w/o the coffee taste); not my favorite |
 | Chocolate Coconut (R) | 35mg | 3/5 | ok, coconut flavor overpowered the chocolate; not my favorite |
@@ -35,7 +36,6 @@
 | Caramel Maccihiato | 40mg | 1/5 | Nasty |
 | Salted Watermelon | 20mg | 1/5 | Soapy melon |
 | Vanilla Spice (R) | 35mg | | |
-| Strawberry Kiwi (R) | 0mg | | |
 | Gingerade | 0mg| | Low expectations... |
 | Tri-Berry | 20mg | | Low expectations... |
 | ~~Espresso Love~~ | ~~40mg~~ | | |
