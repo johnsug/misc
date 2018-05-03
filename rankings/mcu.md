@@ -19,7 +19,7 @@
 | Spider-Man: Homecoming              | 07/07/2017 | 4.5/5 | *** |
 | Thor: Ragnarok                      | 11/03/2017 | 4.5/5 | *** |
 | Black Panther                       | 02/16/2018 | 3.5/5 | |
-| Avengers: Infinity War              | 05/04/2018 | --- | |
+| Avengers: Infinity War              | 04/27/2018 | 4/5 | * |
 | Ant-Man and the Wasp                | 07/06/2018 | --- | |
 | Captain Marvel                      | 03/08/2019 | --- | |
 | Avengers 4                          | 05/03/2019 | --- | |
