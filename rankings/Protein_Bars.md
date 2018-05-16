@@ -4,13 +4,13 @@
 | Flavor | Carbs | Protein | Rating | Thoughts | 
 |--------|-------|---------|--------|----------|
 | Birthday Cake | 22g (8g) | 15g | 4/5 | ok |
-| Cookies 'n' Cream | 23g (9g) | 15g | /5 | |
-| Double Rocky Road | 22g (9g) | 15g | /5 | |
+| Cookies 'n' Cream | 23g (9g) | 15g | 3/5 | ok, but forgetable |
+| Double Rocky Road | 22g (9g) | 15g | 3.5/5 | ok, but forgetable |
 | Lemon Bliss | 23g (11g) | 15g | 5/5 | fantastic |
 | Peanut Butter Cookie | 22g (6g) | 15g | 3/5| ok, edible, but wouldn't buy again |
-| Almond Cookie | 28g (11g) | 20g | /5 | |
+| Almond Cookie | 28g (11g) | 20g | 3.5/5 | tastes just like a stale german frosted almond cookie |
 | Blueberry Waffle | 27g (9g) | 20g | /5 | |
-| Chocolate Peanut Butter | 27g (4g) | 20g | /5 | |
+| Chocolate Peanut Butter | 27g (4g) | 20g | 3/5 | ok |
 | Double Fudge Brownie | 28g (11g) | 20g | /5 | |
 | Salted Caramel | 29g (12g) | 20g | /5 | |
 
