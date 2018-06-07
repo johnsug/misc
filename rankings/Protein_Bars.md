@@ -11,10 +11,10 @@
 | Blueberry Waffle | 27g (9g) | 20g | 2.5/5 | :( not great, not pleasant to get down |
 | Lemon Bliss | 23g (11g) | 15g | 5/5 | fantastic |
 | Almond Cookie | 28g (11g) | 20g | 3/5 | tastes just like a stale german frosted almond cookie |
-| Double Fudge Brownie | 28g (11g) | 20g | /5 | |
+| Double Fudge Brownie | 28g (11g) | 20g | 3/5 | ok, but forgetable |
 | Salted Caramel | 29g (12g) | 20g | /5 | |
 
-*Will **definitely** have to try these on some long runs...*
+*consider using the lemon bliss bar on/after long runs*
 
 ### Rx Bars
 
