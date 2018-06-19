@@ -8,7 +8,7 @@
 | PB Cup | 6g | 4.5/5 | was the gold standard, but Cookie Dough is making me question that... (but might still squeak ahead due to its lower carb count?) |
 | Cookie Dough | 8g | 4.5/5 | very good, but perhaps a *tad* too sweet? |
 | Sea Salt Caramel | 7g | 4.5/5 | very good; base similar but not exactly the same as Cookie Dough's base |
-| Peaches and Cream | 8g | 4/5 | very good, albeith seasonal |
+| Peaches and Cream | 8g | 4/5 | very good, but unfortunately only summer seasonal |
 | Red Velvet | 8g | 4/5 | I go back and forth, but still apprecaite this one |
 
 
