@@ -5,17 +5,19 @@ next to try:
 
 * smores
 * french toast
-* vanilla orange
 * mint chocolate
+* gingerade
 * tutti fruiti
 * vanilla spice
-* gingerade
 * triberry
-
+* vanilla orange
 
 stock up on:
 
+* smores (x1)
 * french toast (x1)
+* mint chocolate (x1)
+* gingerade (x1)
 * vanilla
 * marshmallow
 * caramel
