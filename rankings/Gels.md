@@ -1,26 +1,52 @@
 
 ## Energy Gels Flavor Log
 
+next to try:
+
+* smores
+* french toast
+* vanilla orange
+* mint chocolate
+* tutti fruiti
+* vanilla spice
+* gingerade
+* triberry
+
+
+stock up on:
+
+* french toast (x1)
+* vanilla
+* marshmallow
+* caramel
+* birthday cake
+* (not chocolate)
+
 ### Gu
 
 | Flavor | C | Rating | Thoughts |
 |--------|---|--------|----------|
 | Sea Salt Chocolate | 35mg | 5/5 | Perfect (didnt taste the sea salt, though) |
 | Toasted Marshmallow | 0mg | 4.5/5 | Surprisingly Good | 
+| French Toast | 0mg | |
 | Campfire S'Mores | 0mg | |
+| French Toast | 0mg | |
 | Tutti Fruiti (R) | 35mg | |
 | Vanilla Orange (R) | 35mg | |
 | Mint Chocolate | 20mg | | |
+| Vanilla Spice (R) | 35mg | | |
+| Gingerade | 0mg| | Low expectations... |
+| Tri-Berry | 20mg | | Low expectations... |
 | Chocolate Outrage | 20mg | 4.5/5 | Very good -- gooey brownie mix (2nd packet a bit off) |
 | Chocolate Peanut Butter | 20mg | 4.5/5 | Very good, though couldn't really discern the peanut butter |
 | Vanilla Bean | 20mg | 4/5 | Good flavor |
 | Salted Caramel | 20mg | 4/5 | Good flavor |
 | Peanut Butter | 0mg | 4/5 | good, but almost chalky at the end |
-| Strawberry Banana | 0mg | 4/5 | Almost banana-y, with a hint of strawberry; OK aftertaste |
+| Birthday Cake | 0 mg | 4/5 | gets the job done | 
 | Root Beer | 0mg | 4/5 | A tad sweet, but good taste and not too thick |
 | Big Apple | 0mg | 3.5/5 | Very light, mild flavor; almost discernible |
+| Strawberry Banana | 0mg | 3.5/5 | Almost banana-y, with a hint of strawberry; OK aftertaste |
 | Strawberry Kiwi (R) | 0mg | 3/5 | ok, tried to just get it down and forget about it... ok, but wouldn't buy it again |
-| Birthday Cake | 0 mg | 3/5 | Ok, but not what I was expecting... | 
 | Lemon Sublime | 0mg | 3/5 | not a bad flavor, but weird (reminiscent of cherry lime w/o the coffee taste); not my favorite |
 | Chocolate Coconut (R) | 35mg | 3/5 | ok, coconut flavor overpowered the chocolate; not my favorite |
 | Vanilla Orange (R) | 35mg | 3/5 | Slightly off, almost burnt taste |
@@ -35,9 +61,6 @@
 | Pineapple (R) | 0mg | 1/5 | Too sweet |
 | Caramel Maccihiato | 40mg | 1/5 | Nasty |
 | Salted Watermelon | 20mg | 1/5 | Soapy melon |
-| Vanilla Spice (R) | 35mg | | |
-| Gingerade | 0mg| | Low expectations... |
-| Tri-Berry | 20mg | | Low expectations... |
 | ~~Espresso Love~~ | ~~40mg~~ | | |
 
 ### Clif Shots
