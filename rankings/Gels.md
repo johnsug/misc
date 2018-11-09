@@ -5,22 +5,18 @@ next to try:
 
 * smores
 * french toast
+* vanilla spice
+* vanilla orange
+* triberry
 * mint chocolate
 * gingerade
 * tutti fruiti
-* vanilla spice
-* triberry
-* vanilla orange
 
 stock up on:
 
 * smores (x1)
-* french toast (x1)
 * mint chocolate (x1)
 * gingerade (x1)
-* vanilla
-* marshmallow
-* caramel
 * birthday cake
 * (not chocolate)
 
@@ -29,11 +25,11 @@ stock up on:
 | Flavor | C | Rating | Thoughts |
 |--------|---|--------|----------|
 | Sea Salt Chocolate | 35mg | 5/5 | Perfect (didnt taste the sea salt, though) |
-| Toasted Marshmallow | 0mg | 4.5/5 | Surprisingly Good | 
+| Toasted Marshmallow | 0mg | 4.5/5 | Super tasty | 
 | French Toast | 0mg | |
 | Campfire S'Mores | 0mg | |
 | French Toast | 0mg | |
-| Tutti Fruiti (R) | 35mg | |
+| Tutti Fruiti (R) | 35mg | thought I had one of these somewhere.. |
 | Vanilla Orange (R) | 35mg | |
 | Mint Chocolate | 20mg | | |
 | Vanilla Spice (R) | 35mg | | |
