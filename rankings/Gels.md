@@ -5,7 +5,6 @@ next to try:
 
 * smores
 * french toast
-* vanilla spice
 * vanilla orange
 * triberry
 * mint chocolate
@@ -18,6 +17,7 @@ stock up on:
 * mint chocolate (x1)
 * gingerade (x1)
 * birthday cake
+* vanilla orange
 * (not chocolate)
 
 ### Gu
@@ -26,13 +26,13 @@ stock up on:
 |--------|---|--------|----------|
 | Sea Salt Chocolate | 35mg | 5/5 | Perfect (didnt taste the sea salt, though) |
 | Toasted Marshmallow | 0mg | 4.5/5 | Super tasty | 
-| French Toast | 0mg | |
-| Campfire S'Mores | 0mg | |
-| French Toast | 0mg | |
-| Tutti Fruiti (R) | 35mg | thought I had one of these somewhere.. |
-| Vanilla Orange (R) | 35mg | |
-| Mint Chocolate | 20mg | | |
-| Vanilla Spice (R) | 35mg | | |
+| French Toast | 0mg | /5 | |
+| Campfire S'Mores | 0mg | /5 | |
+| French Toast | 0mg | /5 | |
+| Tutti Fruiti (R) | 35mg | /5 | thought I had one of these somewhere.. |
+| Vanilla Orange (R) | 35mg | ?/5 | was in the zone so I dont remember the flavor, but I don't remember it being unpleasant... 
+| Mint Chocolate | 20mg | /5 | |
+| Vanilla Spice (R) | 35mg | 3/5 | didn't care much for the spice blend |
 | Gingerade | 0mg| | Low expectations... |
 | Tri-Berry | 20mg | | Low expectations... |
 | Chocolate Outrage | 20mg | 4.5/5 | Very good -- gooey brownie mix (2nd packet a bit off) |
