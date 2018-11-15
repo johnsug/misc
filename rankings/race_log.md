@@ -1,5 +1,5 @@
 
-## Halfs
+## Halfs (n=13)
 
 | Date | Race | Time | Avg Pace |
 |------|------|------|----------|
@@ -17,7 +17,7 @@
 | 04/14/2018 | Rock the Parkway 2018 | 1:33:43 | 7:07 |
 | 11/10/2018 | Longview Half 2018 | 1:28:18 | 6:42 |
 
-## Marathons
+## Marathons (n=3)
 
 | Date | Race | Time | Avg Pace |
 |------|------|------|----------|
