@@ -3,8 +3,8 @@
 
 | Date | Race | Time | Avg Pace |
 |------|------|------|----------|
-| 11/24/2011 | Atlanta Thanksgiving Half 2011 | 1:51:32 | 8:31 |
-| 11/22/2012 | Atlanta Thanksgiving Half 2012 | 2:04:15 | 9:29 |
+| 11/24/2011 | Thanksgiving Day Half 2011 | 1:51:32 | 8:31 |
+| 11/22/2012 | Thanksgiving Day Half 2012 | 2:04:15 | 9:29 |
 | 04/11/2015 | Rock the Parkway 2015 | 2:00:26 | 9:11 |
 | 04/18/2015 | Garmin Half 2015 | 2:05:40 | 9:41 |
 | 05/09/2015 | Running with the Cows 2015 | 2:08:01 | 9:43 |
