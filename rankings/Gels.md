@@ -5,20 +5,17 @@ next to try:
 
 * smores
 * french toast
+* tutti fruiti
 * vanilla orange
 * triberry
 * mint chocolate
 * gingerade
-* tutti fruiti
 
 stock up on:
 
-* smores (x1)
 * mint chocolate (x1)
 * gingerade (x1)
-* birthday cake
 * vanilla orange
-* (not chocolate)
 
 ### Gu
 
