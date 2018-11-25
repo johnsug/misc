@@ -4,8 +4,6 @@
 next to try:
 
 * smores
-* french toast
-* tutti fruiti
 * vanilla orange
 * triberry
 * mint chocolate
@@ -23,10 +21,9 @@ stock up on:
 |--------|---|--------|----------|
 | Sea Salt Chocolate | 35mg | 5/5 | Perfect (didnt taste the sea salt, though) |
 | Toasted Marshmallow | 0mg | 4.5/5 | Super tasty | 
-| French Toast | 0mg | /5 | |
+| French Toast | 0mg | 4/5 | Good flavor, but strong aftertaste |
 | Campfire S'Mores | 0mg | /5 | |
 | French Toast | 0mg | /5 | |
-| Tutti Fruiti (R) | 35mg | /5 | thought I had one of these somewhere.. |
 | Vanilla Orange (R) | 35mg | ?/5 | was in the zone so I dont remember the flavor, but I don't remember it being unpleasant... 
 | Mint Chocolate | 20mg | /5 | |
 | Vanilla Spice (R) | 35mg | 3/5 | didn't care much for the spice blend |
@@ -41,11 +38,13 @@ stock up on:
 | Root Beer | 0mg | 4/5 | A tad sweet, but good taste and not too thick |
 | Big Apple | 0mg | 3.5/5 | Very light, mild flavor; almost discernible |
 | Strawberry Banana | 0mg | 3.5/5 | Almost banana-y, with a hint of strawberry; OK aftertaste |
-| Strawberry Kiwi (R) | 0mg | 3/5 | ok, tried to just get it down and forget about it... ok, but wouldn't buy it again |
 | Lemon Sublime | 0mg | 3/5 | not a bad flavor, but weird (reminiscent of cherry lime w/o the coffee taste); not my favorite |
 | Chocolate Coconut (R) | 35mg | 3/5 | ok, coconut flavor overpowered the chocolate; not my favorite |
 | Vanilla Orange (R) | 35mg | 3/5 | Slightly off, almost burnt taste |
 | Tastefully Nude | 20mg | 2.5/5 | Super-sweet cream cheese frosting |
+| Pineapple (R) | 0mg | 2.5/5 | Almost good |
+| Strawberry Kiwi (R) | 0mg | 2.5/5 | ok, tried to just get it down and forget about it... ok, but wouldn't buy it again |
+| Tutti Fruiti (R) | 35mg | 2/5 | weird fruity flavor, a bit too sweet |
 | Cherry Lime | 35mg | 2/5 | Weird (coffee?) flavor / aftertaste |
 | Mandarin Orange | 20mg | 2/5 | Weird (burnt) taste/aftertaste |
 | Blueberry Pomegranate (R) | 35mg | 2/5 | Funky taste, slight (weird) aftertaste |
@@ -53,7 +52,6 @@ stock up on:
 | Tri-Berry | 20mg | 1.5/5 | Too sweet!! | 
 | Lemonade (R) | 0mg | 1.5/5 | Too sweet/thick/nasty | 
 | Jet Blackberry | 40mg | 1/5 | Tasted like cough medicine | 
-| Pineapple (R) | 0mg | 1/5 | Too sweet |
 | Caramel Maccihiato | 40mg | 1/5 | Nasty |
 | Salted Watermelon | 20mg | 1/5 | Soapy melon |
 | ~~Espresso Love~~ | ~~40mg~~ | | |
