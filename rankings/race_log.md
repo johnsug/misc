@@ -24,10 +24,12 @@
 | 04/22/2017 | Garmin Marathon 2017 | 4:21:49 | 9:57 |
 | 04/21/2018 | Garmin Marathon 2018 | 3:22:25 | 7:42 |
 | 10/20/2018 | Kansas City Marathon 2018 | 3:23:15 | 7:39 |
+| 12/08/2018 | Buckeye Marathon 2018 | 3:00:00 | 7:00 |
 
-## Other Events
+## Other Events (n=2)
 
 | Date | Race | Time | Avg Pace |
 |------|------|------|----------|
 | 11/09/2012 | Tennessee Ragnar | N/A | N/A |
+| 12/01/2018 | Jacomotose Trail Run 2018 | 1:03:38 | 7:20 |
 
