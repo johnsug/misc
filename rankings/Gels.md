@@ -6,12 +6,10 @@ next to try:
 * smores
 * vanilla orange
 * triberry
-* mint chocolate
 * gingerade
 
 stock up on:
 
-* mint chocolate (x1)
 * gingerade (x1)
 * vanilla orange
 
@@ -19,16 +17,12 @@ stock up on:
 
 | Flavor | C | Rating | Thoughts |
 |--------|---|--------|----------|
-| Sea Salt Chocolate | 35mg | 5/5 | Perfect (didnt taste the sea salt, though) |
-| Toasted Marshmallow | 0mg | 4.5/5 | Super tasty | 
-| French Toast | 0mg | 4/5 | Good flavor, but strong aftertaste |
-| Campfire S'Mores | 0mg | /5 | |
-| French Toast | 0mg | /5 | |
+| Campfire S'Mores | 0mg | ?/5 | was in the zone on race day; don't remember, need to try again |
 | Vanilla Orange (R) | 35mg | ?/5 | was in the zone so I dont remember the flavor, but I don't remember it being unpleasant... 
-| Mint Chocolate | 20mg | /5 | |
-| Vanilla Spice (R) | 35mg | 3/5 | didn't care much for the spice blend |
 | Gingerade | 0mg| | Low expectations... |
 | Tri-Berry | 20mg | | Low expectations... |
+| Sea Salt Chocolate | 35mg | 5/5 | Perfect (didnt taste the sea salt, though) |
+| Toasted Marshmallow | 0mg | 4.5/5 | Super tasty | 
 | Chocolate Outrage | 20mg | 4.5/5 | Very good -- gooey brownie mix (2nd packet a bit off) |
 | Chocolate Peanut Butter | 20mg | 4.5/5 | Very good, though couldn't really discern the peanut butter |
 | Vanilla Bean | 20mg | 4/5 | Good flavor |
@@ -36,8 +30,11 @@ stock up on:
 | Peanut Butter | 0mg | 4/5 | good, but almost chalky at the end |
 | Birthday Cake | 0 mg | 4/5 | gets the job done | 
 | Root Beer | 0mg | 4/5 | A tad sweet, but good taste and not too thick |
+| French Toast | 0mg | 3.5/5 | Good flavor, but strong aftertaste |
 | Big Apple | 0mg | 3.5/5 | Very light, mild flavor; almost discernible |
 | Strawberry Banana | 0mg | 3.5/5 | Almost banana-y, with a hint of strawberry; OK aftertaste |
+| Mint Chocolate | 20mg | 3.5/5 | strong minty; not horrible, but I wouldn't choose to buy again |
+| Vanilla Spice (R) | 35mg | 3/5 | didn't care much for the spice blend |
 | Lemon Sublime | 0mg | 3/5 | not a bad flavor, but weird (reminiscent of cherry lime w/o the coffee taste); not my favorite |
 | Chocolate Coconut (R) | 35mg | 3/5 | ok, coconut flavor overpowered the chocolate; not my favorite |
 | Vanilla Orange (R) | 35mg | 3/5 | Slightly off, almost burnt taste |
