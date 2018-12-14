@@ -21,8 +21,8 @@ stock up on:
 | Vanilla Orange (R) | 35mg | ?/5 | was in the zone so I dont remember the flavor, but I don't remember it being unpleasant... 
 | Gingerade | 0mg| | Low expectations... |
 | Tri-Berry | 20mg | | Low expectations... |
-| Sea Salt Chocolate | 35mg | 5/5 | Perfect (didnt taste the sea salt, though) |
-| Toasted Marshmallow | 0mg | 4.5/5 | Super tasty | 
+| Toasted Marshmallow | 0mg | 5/5 | My favorite, to date | 
+| Sea Salt Chocolate | 35mg | 4.5/5 | Near-perfect (didnt taste the sea salt, though) |
 | Chocolate Outrage | 20mg | 4.5/5 | Very good -- gooey brownie mix (2nd packet a bit off) |
 | Chocolate Peanut Butter | 20mg | 4.5/5 | Very good, though couldn't really discern the peanut butter |
 | Vanilla Bean | 20mg | 4/5 | Good flavor |
