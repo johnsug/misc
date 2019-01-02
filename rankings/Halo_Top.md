@@ -8,9 +8,9 @@
 | PB Cup | 6g | 4.5/5 | was the gold standard, but Cookie Dough is making me question that... (but might still squeak ahead due to its lower carb count?) |
 | Cookie Dough | 8g | 4.5/5 | very good, but perhaps a *tad* too sweet? |
 | Sea Salt Caramel | 7g | 4.5/5 | very good; base similar but not exactly the same as Cookie Dough's base |
-| Peaches and Cream | 8g | 4/5 | very good, but unfortunately only summer seasonal |
+| Peaches and Cream | 8g | 4/5 | very good, but higher carb (summer seasonal) |
 | Red Velvet | 8g | 4/5 | I go back and forth, but still apprecaite this one |
-
+| Gingerbread House | 8g | 4.5/5 | higher carb, but very tasty (winter seasonal) |
 
 ### Cute Without the E (sorted by rank)
 
@@ -36,7 +36,6 @@
 |--------|-----------|--------|----------|
 | Choc Almond Crunch | 5g | /5 | *meh, could do without; read "the chocolate is a complete miss here"... but others say it tastes like marzipan?* |
 | Pancakes & Waffles | 8g | /5 | *maybe, but not sure carbs are worth it...* |
-| Gingerbread House | 8g | /5 | **seasonal only** |
 
 ### Probably Won't Try (sorted by net carbs)
 
