@@ -12,7 +12,6 @@
 | Red Velvet | 8g | 5/5 | I go back and forth, but still apprecaite this one |
 | Gingerbread House | 8g | 4.5/5 | higher carb, but very tasty **seasonal only** |
 | Cinnamon Roll | 10g | /5 | *10g! ouch... but reviewed well ("like a Cinnabon!")* |
-| Pumpkin Pie | 10g | /5 | *10g! but reviewed well;* **seasonal only** |
 | Birthday Cake | 6g | 3.5/5 | tastes exactly like birthday cake |
 | Chocolate Banana | 7g | 3.5/5 | liked the banana flavor (Laffy Taffy!) but the almost-burnt chocolate sort of brings it down |
 
@@ -22,6 +21,7 @@
 |--------|-----------|--------|----------|
 | Lemon Cake | 5g | 3/5 | didn't really like, but *maybe* try again?? |
 | Strawberry | 6g | 3/5 | meh, but perhaps it was too melted |
+| Pumpkin Pie | 10g | /5 | ok, but nothing to write home about **seasonal only** |
 | Blueberry Crumble | 8g | 3/5 | ok **seasonal only** |
 | Mint Chip | 6g | 2.5/5 | mint sensation VERY strong, chocolate chips very bitter... |
 | Oatmeal Cookie | 6g | 2.5/5 | kinda blah + oats were chewy/offsetting |
