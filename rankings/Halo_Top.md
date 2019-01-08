@@ -21,8 +21,8 @@
 |--------|-----------|--------|----------|
 | Lemon Cake | 5g | 3/5 | didn't really like, but *maybe* try again?? |
 | Strawberry | 6g | 3/5 | meh, but perhaps it was too melted |
-| Pumpkin Pie | 10g | /5 | ok, but nothing to write home about **seasonal only** |
 | Blueberry Crumble | 8g | 3/5 | ok **seasonal only** |
+| Pumpkin Pie | 10g | /5 | ok, kind of blah; nothing to write home about **seasonal only** |
 | Mint Chip | 6g | 2.5/5 | mint sensation VERY strong, chocolate chips very bitter... |
 | Oatmeal Cookie | 6g | 2.5/5 | kinda blah + oats were chewy/offsetting |
 | Cookies and Cream | 8g | 2.5/5 | taste is ok; hint of coconut, hint of oreo, but otherwise no real flavor? |
