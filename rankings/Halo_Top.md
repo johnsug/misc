@@ -5,15 +5,15 @@
 
 | Flavor | Net Carbs | Rating | Thoughts |
 |--------|-----------|--------|----------|
-| Peanut Butter Cup | 6g | 5/5 | was the gold standard, but Cookie Dough is making me question that... (but might still squeak ahead due to its lower carb count?) |
-| Cookie Dough | 8g | 5/5 | very good, but perhaps a *tad* too sweet? |
-| Sea Salt Caramel | 7g | 5/5 | very good; base similar but not exactly the same as Cookie Dough's base |
-| Peaches and Cream | 8g | 5/5 | very good, but higher carb **seasonal only** |
-| Red Velvet | 8g | 5/5 | I go back and forth, but still apprecaite this one |
+| Peanut Butter Cup | 6g | 5/5 | the gold standard |
+| Peaches and Cream | 8g | 5/5 | very good but **seasonal only** |
+| Cookie Dough | 8g | 4.5/5 | very good, but perhaps a *tad* too sweet? |
+| Sea Salt Caramel | 7g | 4.5/5 | very good; base similar but not exactly the same as Cookie Dough's base |
+| Red Velvet | 8g | 4.5/5 | I go back and forth, but still apprecaite this one |
 | Gingerbread House | 8g | 4.5/5 | higher carb, but very tasty **seasonal only** |
-| Cinnamon Roll | 10g | /5 | *10g! ouch... but reviewed well ("like a Cinnabon!")* |
 | Birthday Cake | 6g | 3.5/5 | tastes exactly like birthday cake |
 | Chocolate Banana | 7g | 3.5/5 | liked the banana flavor (Laffy Taffy!) but the almost-burnt chocolate sort of brings it down |
+| Cinnamon Roll | 10g | 3.5/5 | good base and flavor, but at 40g/pint probably won't consume too often |
 
 ### Cute Without the E (sorted by rank)
 
