@@ -5,12 +5,14 @@
 
 | Flavor | Net Carbs | Rating | Thoughts |
 |--------|-----------|--------|----------|
-| PB Cup | 6g | 4.5/5 | was the gold standard, but Cookie Dough is making me question that... (but might still squeak ahead due to its lower carb count?) |
-| Cookie Dough | 8g | 4.5/5 | very good, but perhaps a *tad* too sweet? |
-| Sea Salt Caramel | 7g | 4.5/5 | very good; base similar but not exactly the same as Cookie Dough's base |
-| Peaches and Cream | 8g | 4/5 | very good, but higher carb (summer seasonal) |
-| Red Velvet | 8g | 4/5 | I go back and forth, but still apprecaite this one |
+| Peanut Butter Cup | 6g | 5/5 | was the gold standard, but Cookie Dough is making me question that... (but might still squeak ahead due to its lower carb count?) |
+| Cookie Dough | 8g | 5/5 | very good, but perhaps a *tad* too sweet? |
+| Sea Salt Caramel | 7g | 5/5 | very good; base similar but not exactly the same as Cookie Dough's base |
+| Peaches and Cream | 8g | 5/5 | very good, but higher carb (summer seasonal) |
+| Red Velvet | 8g | 5/5 | I go back and forth, but still apprecaite this one |
 | Gingerbread House | 8g | 4.5/5 | higher carb, but very tasty (winter seasonal) |
+| Cinnamon Roll | 10g | /5 | *10g! ouch... but reviewed well ("like a Cinnabon!")* |
+| Pumpkin Pie | 10g | /5 | *10g! but reviewed well;* **seasonal only** |
 
 ### Cute Without the E (sorted by rank)
 
@@ -27,15 +29,16 @@
 | Candy Bar | 8g | 2.5/5 | first time ok w/ a spoon of peanut butter; second time raw was unimpressed / nuts not very pleasant |
 | S'mores | 8g | 2.5/5 | weird coconut/marshmallow cream flavor with weirder small, hard crunches; each bite was more and more disappointing :( |
 | Chocolate | 5g | 2/5 | accidently bought, sad dissapointment; was expecting PB Cup's chocolate, was left with a sad fudgesicle |
-| Rainbow Swirl | 6g | 1.5/5 | gross, could not finish (*I guess I'm to blame... I was expecting it to taste like rainbow sherbet, but nope, not at all; just fruity disappointment*) |
-| Vanilla Bean | 5g | 1.5/5 | sad dissapointment, did not finish *(was hoping it'd be more like the base of cookie dough; nope, not at all)* 
+| Rainbow Swirl | 6g | 1/5 | gross, could not finish (*I guess I'm to blame... I was expecting it to taste like rainbow sherbet, but nope, not at all; just fruity disappointment*) |
+| Pancakes & Waffles | 8g | 1/5 | super sweet and super bitter at the same time, could not finish |
+| Vanilla Bean | 5g | 1/5 | sad dissapointment, did not finish *(was hoping it'd be more like the base of cookie dough; nope, not at all)* BUT, ok w/ a banana in a milkshake... |
+| Pancakes & Waffles | 8g | 1/5 | super sweet and super bitter at the same time, couldn't finish more than 10% |
 
 ### Maybe Try (sorted by net carbs)
 
 | Flavor | Net Carbs | Rating | Thoughts |
 |--------|-----------|--------|----------|
 | Choc Almond Crunch | 5g | /5 | *meh, could do without; read "the chocolate is a complete miss here"... but others say it tastes like marzipan?* |
-| Pancakes & Waffles | 8g | /5 | *maybe, but not sure carbs are worth it...* |
 
 ### Probably Won't Try (sorted by net carbs)
 
@@ -46,5 +49,3 @@
 | Choc Mocha Chip | 6g | /5 | *don't like coffee* |
 | Caramel Macchiato | 8g | /5 | *don't like coffee* |
 | Mochi Green Tea | 8g | /5 | *read it's nothing special / no real flavor* |
-| Cinnamon Roll | 10g | /5 | *10g! ouch... but reviewed well ("like a Cinnabon!")* |
-| Pumpkin Pie | 10g | /5 | *10g! but reviewed well;* **seasonal only** |
