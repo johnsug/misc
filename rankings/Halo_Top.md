@@ -14,15 +14,16 @@
 | Birthday Cake | 6g | 3.5/5 | tastes exactly like birthday cake |
 | Chocolate Banana | 7g | 3.5/5 | liked the banana flavor (Laffy Taffy!) but the almost-burnt chocolate sort of brings it down |
 | Cinnamon Roll | 10g | 3.5/5 | good base and flavor, but at 40g/pint probably won't consume too often |
+| Peanut Butter & Jelly | g | /5 |  |
 
 ### Cute Without the E (sorted by rank)
 
 | Flavor | Net Carbs | Rating | Thoughts |
 |--------|-----------|--------|----------|
-| Lemon Cake | 5g | 3/5 | didn't really like, but *maybe* try again?? |
-| Strawberry | 6g | 3/5 | meh, but perhaps it was too melted |
+| Lemon Cake | 6g | 3/5 | serviceable |
 | Blueberry Crumble | 8g | 3/5 | ok **seasonal only** |
 | Pumpkin Pie | 10g | /5 | ok, kind of blah; nothing to write home about **seasonal only** |
+| Strawberry | 6g | 2.5/5 | meh, but perhaps it was too melted |
 | Mint Chip | 6g | 2.5/5 | mint sensation VERY strong, chocolate chips very bitter... |
 | Oatmeal Cookie | 6g | 2.5/5 | kinda blah + oats were chewy/offsetting |
 | Cookies and Cream | 8g | 2.5/5 | taste is ok; hint of coconut, hint of oreo, but otherwise no real flavor? |
