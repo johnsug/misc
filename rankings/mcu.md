@@ -21,6 +21,6 @@
 | Black Panther                       | 02/16/2018 | 3.5/5 | |
 | Avengers: Infinity War              | 04/27/2018 | 4/5 | * |
 | Ant-Man and the Wasp                | 07/06/2018 | 4/5 | * |
-| Captain Marvel                      | 03/08/2019 | --- | |
-| Avengers 4                          | 05/03/2019 | --- | |
+| Captain Marvel                      | 03/08/2019 | 3/5 | |
+| Avengers 4                          | 04/26/2019 | --- | |
 | Spider-Man: Homecoming 2            | 07/05/2019 | --- | |
