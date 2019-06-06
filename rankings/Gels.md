@@ -53,6 +53,20 @@ stock up on:
 | Salted Watermelon | 20mg | 1/5 | Soapy melon |
 | ~~Espresso Love~~ | ~~40mg~~ | | |
 
+### Huma
+
+| Flavor | C | Rating | Thoughts |
+|--------|---|--------|----------|
+| Lemonade | x1 | /5 | |
+| Mango | | /5 | |
+| Raspberry | x1 | /5 | |
+| Strawberry | | /5 | |
+| Mocha | x2 | | /5 |
+| Chocolate | x1 | /5 | |
+| Blueberry | | /5 | |
+| Apple & Cinnamon | | /5 | |
+
+
 ### Clif Shots
 
 | Flavor | C | Rating | Thoughts |
