@@ -1,0 +1,5 @@
+emp_id, first_name, last_name, title, department, salary, Manager_id, HireDt, Level
+1, John, Doe, Manager, HR, 85000, 10, 12/10/1990, 3
+2, Claire, Voyant, developer, IT, 100000, 17, 03/24/2005, 4
+3, Peg, Leg, Sr developer, IT, 125000, 17, 01/01/1997, 5
+4, Marty, Graw, Sr analyst, Sales, 110000, 13, 08/17/2010, 5
