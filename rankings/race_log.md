@@ -1,5 +1,5 @@
 
-## Halfs (n=13)
+## Halfs (n=15)
 
 | Date | Race | Time | Avg Pace |
 |------|------|------|----------|
@@ -16,20 +16,25 @@
 | 04/13/2017 | Running with the Cows 2017 | 1:58:51 | 9:00 |
 | 04/14/2018 | Rock the Parkway 2018 | 1:33:43 | 7:07 |
 | 11/10/2018 | Longview Half 2018 | 1:28:18 | 6:42 |
+| 04/13/2019 | Rock the Parkway 2019 | 1:28:54 | 6:46 | 
+| 06/01/2019 | Hospital Hill 2019 | 1:39:33 | 7:30 |
 
-## Marathons (n=3)
+## Marathons (n=6)
 
 | Date | Race | Time | Avg Pace |
 |------|------|------|----------|
 | 04/22/2017 | Garmin Marathon 2017 | 4:21:49 | 9:57 |
 | 04/21/2018 | Garmin Marathon 2018 | 3:22:25 | 7:42 |
 | 10/20/2018 | Kansas City Marathon 2018 | 3:23:15 | 7:39 |
-| 12/08/2018 | Buckeye Marathon 2018 | 3:00:00 | 7:00 |
+| 12/08/2018 | Buckeye Marathon 2018 | 3:04:32 | 7:02 |
+| 07/20/2019 | Oregon Marathon 2019 | 3:29:19 | 8:02 |
+| 10/05/2019 | St George Marathon 2019 | 3:23:01 | 7:41 |
 
-## Other Events (n=2)
+## Other Events (n=4)
 
 | Date | Race | Time | Avg Pace |
 |------|------|------|----------|
 | 11/09/2012 | Tennessee Ragnar | N/A | N/A |
 | 12/01/2018 | Jacomotose Trail Run 2018 | 1:03:38 | 7:20 |
-
+| 04/27/2019 | Free State Trail Marathon 2019 DNF | 2:39:45 | 12:38 |
+| 05/20/2019 | Zman Urban Ultramarathon | | |
