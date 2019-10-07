@@ -32,9 +32,9 @@
 
 ## Other Events (n=4)
 
-| Date | Race | Time | Avg Pace |
-|------|------|------|----------|
-| 11/09/2012 | Tennessee Ragnar | N/A | N/A |
-| 12/01/2018 | Jacomotose Trail Run 2018 | 1:03:38 | 7:20 |
-| 04/27/2019 | Free State Trail Marathon 2019 DNF | 2:39:45 | 12:38 |
-| 05/20/2019 | Zman Urban Ultramarathon | | |
+| Date | Race | Distance | Miles | Avg Pace |
+|------|------|----------|-------|----------|
+| 11/09/2012 | Tennessee Ragnar | ??? | N/A | N/A |
+| 12/01/2018 | Jacomotose Trail Run 2018 | 8.67 | 1:03:38 | 7:20 |
+| 04/27/2019 | Free State Trail Marathon 2019 DNF | 12.65 | 2:39:45 | 12:38 |
+| 05/20/2019 | Z-Man Urban Ultramarathon | 32.01 | 6:05:43 | 11:25 |
