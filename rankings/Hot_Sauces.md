@@ -9,14 +9,7 @@
 | Hippy Dippy Green | Angry Goat Peppers Co | 2/5 | good for tacos, didn't like on wings |
 | Paddy O's Potion | Popp Sauce | 2/5 | ok on wings |
 | Pineapple & Habanero | Bravado | 2/5 | runny; no real flavor on wings |
-| | | /5 | |
-| | | /5 | |
-| | | /5 | |
-| | | /5 | |
-| | | /5 | |
-| | | /5 | |
-| | | /5 | |
-| | | /5 | |
+| The Last Dab XXX | Heatonist | /5 | |
 | Secret Aardvark Habanero Sauce | Secret Aardvark | 2/5 | not my jam; ok on pizza |
 | The Last Dab Scorpion | Heatonist | 3/5 | ok flavor; great heat when cooking |
 | The Chicago | Small Axe Peppers | 3/5 | ok; vinegary |
@@ -31,3 +24,10 @@
 | Son of Zombie | Torchbearer Sauces | /5 | |
 | Dick's Caribbean Dreams | Dirty Dick's | /5 | | 
 | Dick's Peachy Green | Dirty Dick's | /5 | 
+| | | /5 | |
+| | | /5 | |
+| | | /5 | |
+| | | /5 | |
+| | | /5 | |
+| | | /5 | |
+| | | /5 | |
