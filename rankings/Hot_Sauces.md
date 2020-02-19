@@ -4,8 +4,8 @@
 | Dirty Dick's Hot Sauce | Dirty Dick's | 4/5 | Good on chicken, not on eggs |
 | Los Calientes Rojo | Heatonist | 4/5 | Great, but falls short of the OG |
 | The Classic | Heatonist | 3/5 | was my staple for eggs, but seems a bit dull now|
-| The Classic Remix | Heatonist | /5 | |
-| The Last Dab Chile Adobo | Heatonist | /5 | |
+| The Classic Pepper X | Heatonist | /5 | |
+| The Last Dab Chile de Arbol | Heatonist | /5 | |
 | Hippy Dippy Green | Angry Goat Peppers Co | 2/5 | good for tacos, didn't like on wings |
 | Paddy O's Potion | Popp Sauce | 2/5 | ok on wings |
 | Pineapple & Habanero | Bravado | 2/5 | runny; no real flavor on wings |
@@ -24,10 +24,9 @@
 | Son of Zombie | Torchbearer Sauces | /5 | |
 | Dick's Caribbean Dreams | Dirty Dick's | /5 | | 
 | Dick's Peachy Green | Dirty Dick's | /5 | 
-| | | /5 | |
-| | | /5 | |
-| | | /5 | |
-| | | /5 | |
+| Tamaulipeka |Cantina Royal Hot Sauce | | /5 | |
+| Hot Thai Green | Seed Ranch | /5 | |
+| Carnival | Karma Sauce | 2/5 | hot; weird floral hints, not great |
 | | | /5 | |
 | | | /5 | |
 | | | /5 | |
