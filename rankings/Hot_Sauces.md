@@ -31,3 +31,13 @@
 | | | /5 | |
 | | | /5 | |
 | | | /5 | |
+
+Legend: 
+
+| Rating | Interpretation |
+|--------|----------------|
+| 5/5 | Gold standard |
+| 4/5 | Very good |
+| 3/5 | Ok, but wouldn't buy again |
+| 2/5 | Dissapointing |
+| 1/5 | Nasty |
