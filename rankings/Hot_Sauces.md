@@ -12,16 +12,16 @@ Meh Squad:
 |-------|---------|--------|-------|
 | The Last Dab Scorpion           | Heatonist             | 3/5 | ok flavor; great heat in dishes                   |
 | The Classic                     | Heatonist             | 3/5 | was my staple for eggs, but seems a bit dull now  |
-| Paddy O's Potion                | Popp Sauce            | 3/5 | ok on wings                                       |
-| The Chicago                     | Small Axe Peppers     | 3/5 | ok; vinegary                                      |
-| Red Bronx                       | Small Axe Peppers     | 3/5 | ok; vinegary                                      |
-| Green Bronx                     | Small Axe Peppers     | 3/5 | ok; vinegary                                      |
-| Queens 7                        | Small Axe Peppers     | 3/5 | ok; vinegary                                      |
-| Habanero Mango                  | Small Axe Peppers     | 3/5 | ok; hot; vinegary                                 |
+| Secret Aardvark Habanero Sauce  | Secret Aardvark       | 2/5 | not my jam; ok on pizza                           |
+| The Chicago                     | Small Axe Peppers     | 2/5 | ok; vinegary                                      |
+| Red Bronx                       | Small Axe Peppers     | 2/5 | ok; vinegary                                      |
+| Green Bronx                     | Small Axe Peppers     | 2/5 | ok; vinegary                                      |
+| Queens 7                        | Small Axe Peppers     | 2/5 | ok; vinegary                                      |
+| Habanero Mango                  | Small Axe Peppers     | 2/5 | ok; hot; vinegary                                 |
+| Paddy O's Potion                | Popp Sauce            | 2/5 | ok on wings, but kind of weird                    |
 | Hippy Dippy Green               | Angry Goat Peppers Co | 2/5 | good for tacos, didn't like on wings              |
 | Pineapple & Habanero            | Bravado               | 2/5 | runny; no real flavor on wings                    |
-| Secret Aardvark Habanero Sauce  | Secret Aardvark       | 2/5 | not my jam; ok on pizza                           |
-| Carnival                        | Karma Sauce           | 2/5 | hot; weird floral hints, not great                |
+| Carnival                        | Karma Sauce           | 2/5 | lingering hot; weird floral taste; not great      |
 
 Purchased / Wish List:
 
