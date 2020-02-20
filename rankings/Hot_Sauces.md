@@ -3,7 +3,11 @@
 | Los Calientes                   | Heatonist             | 5/5 | Perfection                                        |
 | Dirty Dick's Hot Sauce          | Dirty Dick's          | 4/5 | Good on chicken, not on eggs                      |
 | Los Calientes Rojo              | Heatonist             | 4/5 | Great, but falls short of the OG                  |
-| ----- Meh --------------------- | --------------------- | --- | ------------------------------------------------- |
+
+Meh: 
+
+| Sauce                           | Made By               | Rating | Notes                                          |
+|---------------------------------|-----------------------|-----|---------------------------------------------------|
 | The Last Dab Scorpion           | Heatonist             | 3/5 | ok flavor; great heat in dishes                   |
 | The Classic                     | Heatonist             | 3/5 | was my staple for eggs, but seems a bit dull now  |
 | Secret Aardvark Habanero Sauce  | Secret Aardvark       | 2/5 | not my jam; ok on pizza                           |
