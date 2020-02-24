@@ -57,14 +57,14 @@ stock up on:
 
 | Flavor | C | Rating | Thoughts |
 |--------|---|--------|----------|
-| Lemonade | x1 | /5 | |
-| Mango | | /5 | |
-| Raspberry | x1 | /5 | |
-| Strawberry | | /5 | |
-| Mocha | x2 | | /5 |
+| Lemonade | x1 | 4/5 | Lemony jam |
+| Mango | | 3/5 | ok |
+| Raspberry | x1 | 3/5 | ok |
+| Strawberry | | 3/5 | ok |
 | Chocolate | x1 | /5 | |
-| Blueberry | | /5 | |
-| Apple & Cinnamon | | /5 | |
+| Blueberry | | 3/5 | ok |
+| Apple & Cinnamon | | 2/5 | Tastes like applesauce; I don't like applesauce |
+| ~~Mocha~~ | x2 | | /5 |
 
 
 ### Clif Shots
