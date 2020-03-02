@@ -1,7 +1,20 @@
 
 | Release | Date     | Code Name                |
 |-------|------------|--------------------------|
-| 3.4.0 | 04-15-2017 | (Expected...) |
+| 4.0.0 | 04-00-2020 | |
+| 3.6.3 | 02-29-2020 | Holding the Windsock |
+| 3.6.2 | 12-12-2019 | Dark and Stormy Night |
+| 3.6.1 | 07-05-2019 | Action of the Toes |
+| 3.6.0 | 04-26-2019 | Planting of a Tree |
+| 3.5.3 | 03-11-2019 | Great Truth |
+| 3.5.2 | 12-20-2018 | Eggshell Igloo |
+| 3.5.1 | 07-02-2018 | Feather Spray |
+| 3.5.0 | 04-23-2018 | Joy in Playing |
+| 3.4.4 | 03-15-2017 | Someone to Lean On |
+| 3.4.3 | 11-30-2017 | Kite-Eating Tree |
+| 3.4.2 | 09-28-2017 | Short Summer |
+| 3.4.1 | 06-30-2017 | Single Candle |
+| 3.4.0 | 04-31-2017 | You Stupid Darkness |
 | 3.3.3 | 03-06-2017 | Another Canoe | 
 | 3.3.2 | 10-31-2016 | Sincere Pumpkin Patch |
 | 3.3.1 | 06-21-2016 | Bug in Your Hair |
