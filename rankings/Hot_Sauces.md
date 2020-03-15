@@ -23,6 +23,8 @@ Rankings:
 | The Classic Pepper X            | Heatonist             | /5 |  |
 | The Last Dab Chile de Arbol     | Heatonist             | /5 |  |
 | Hot Thai Green                  | Seed Ranch            | /5 |  |
+| Dick's Caribbean Dreams         | Dirty Dick's          | /5 |  |
+| Dick's Peachy Green             | Dirty Dick's          | /5 |  |
 | Cheeba Gold                     | High River Sauces     | /5 |  |
 | ----- Wish List --------------- | --------------------- | --- | ------------------------------------------------- |
 | The Last Dab XXX                | Heatonist             | /5 |  |
@@ -30,8 +32,6 @@ Rankings:
 | Keith's Chicken Sauce           | Heatonist             | /5 |  |
 | Garlic Reaper Sauce             | Torchbearer Sauces    | /5 |  |
 | Son of Zombie                   | Torchbearer Sauces    | /5 |  |
-| Dick's Caribbean Dreams         | Dirty Dick's          | /5 |  |
-| Dick's Peachy Green             | Dirty Dick's          | /5 |  |
 | Good Karma                      | Karma Sauce           | /5 |  |
 | Smokey Karma                    | Karma Sauce           | /5 |  |
 | Curry Karma                     | Karma Sauce           | /5 |  |
