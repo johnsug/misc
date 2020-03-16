@@ -5,6 +5,19 @@ Rankings:
 | Los Calientes                   | Heatonist             | 5/5 | Perfection                                        |
 | Dirty Dick's Hot Sauce          | Dirty Dick's          | 4/5 | Good on chicken, not on eggs                      |
 | Los Calientes Rojo              | Heatonist             | 4/5 | Great, but falls short of the OG                  |
+| ----- Purchased --------------- | --------------------- | --- | ------------------------------------------------- |
+| The Classic Pepper X            | Heatonist             | /5 |  |
+| The Last Dab Chile de Arbol     | Heatonist             | /5 |  |
+| Hot Thai Green                  | Seed Ranch            | /5 |  |
+| Dick's Caribbean Dreams         | Dirty Dick's          | /5 |  |
+| Dick's Peachy Green             | Dirty Dick's          | /5 |  |
+| Cheeba Gold                     | High River Sauces     | /5 |  |
+| The Last Dab XXX                | Heatonist             | /5 |  |
+| Scotch Bonnet Mustard           | Double Take Salsa Co  | /5 |  |
+| Keith's Chicken Sauce           | Butterly Bakery       | /5 |  |
+| Garlic Reaper Sauce             | Torchbearer Sauces    | /5 |  |
+| Son of Zombie                   | Torchbearer Sauces    | /5 |  |
+| Smoked Onion                    | Butterly Bakery       | /5 |  |
 | ----- Meh --------------------- | --------------------- | --- | ------------------------------------------------- |
 | The Last Dab Scorpion           | Heatonist             | 3/5 | ok flavor; great heat in dishes                   |
 | The Classic                     | Heatonist             | 3/5 | was my staple for eggs, but seems a bit dull now  |
@@ -19,19 +32,7 @@ Rankings:
 | Hippy Dippy Green               | Angry Goat Peppers Co | 2/5 | good for tacos, didn't like on wings              |
 | Pineapple & Habanero            | Bravado               | 2/5 | runny; no real flavor on wings                    |
 | Carnival                        | Karma Sauce           | 2/5 | lingering hot; weird floral taste; not great      |
-| ----- Purchased --------------- | --------------------- | --- | ------------------------------------------------- |
-| The Classic Pepper X            | Heatonist             | /5 |  |
-| The Last Dab Chile de Arbol     | Heatonist             | /5 |  |
-| Hot Thai Green                  | Seed Ranch            | /5 |  |
-| Dick's Caribbean Dreams         | Dirty Dick's          | /5 |  |
-| Dick's Peachy Green             | Dirty Dick's          | /5 |  |
-| Cheeba Gold                     | High River Sauces     | /5 |  |
 | ----- Wish List --------------- | --------------------- | --- | ------------------------------------------------- |
-| The Last Dab XXX                | Heatonist             | /5 |  |
-| Scotch Bonnet Mustard           | Double Take Salsa Co  | /5 |  |
-| Keith's Chicken Sauce           | Heatonist             | /5 |  |
-| Garlic Reaper Sauce             | Torchbearer Sauces    | /5 |  |
-| Son of Zombie                   | Torchbearer Sauces    | /5 |  |
 | Good Karma                      | Karma Sauce           | /5 |  |
 | Smokey Karma                    | Karma Sauce           | /5 |  |
 | Curry Karma                     | Karma Sauce           | /5 |  |
