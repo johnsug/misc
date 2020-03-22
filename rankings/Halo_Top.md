@@ -14,7 +14,19 @@
 | Birthday Cake | 6g | 3.5/5 | tastes exactly like birthday cake |
 | Chocolate Banana | 7g | 3.5/5 | liked the banana flavor (Laffy Taffy!) but the almost-burnt chocolate sort of brings it down |
 | Cinnamon Roll | 10g | 3.5/5 | good base and flavor, but at 40g/pint probably won't consume too often |
-| Peanut Butter & Jelly | g | /5 |  |
+| Peanut Butter & Jelly | g | 3.5/5 | ok |
+| Strawberry Cheesecake | g | 3.5/5 | ok |
+
+### Keto
+| Flavor | Net Carbs | Rating | Thoughts |
+|--------|-----------|--------|----------|
+| Banana Cream Pie | 8g | /5 |  |
+| Berry Swirl | 8g | /5 |  |
+| Caramel Butter Pecan | 5g | /5 |  |
+| Chocolate Cheesecake | 10g | /5 |  |
+| Jelly Donut | 7g | /5 |  |
+| Peanut Butter Chocolate | 8g | /5 |  |
+| White Chocolaty Macadamia | 8g | 2/5 | blah, only really taste the nuts |
 
 ### Cute Without the E (sorted by rank)
 
