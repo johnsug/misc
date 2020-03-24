@@ -20,10 +20,10 @@
 ### Keto
 | Flavor | Net Carbs | Rating | Thoughts |
 |--------|-----------|--------|----------|
+| Chocolate Cheesecake | 10g | 3.5/5 | decent |
 | Banana Cream Pie | 8g | /5 |  |
 | Berry Swirl | 8g | /5 |  |
 | Caramel Butter Pecan | 5g | /5 |  |
-| Chocolate Cheesecake | 10g | /5 |  |
 | Jelly Donut | 7g | /5 |  |
 | Peanut Butter Chocolate | 8g | /5 |  |
 | White Chocolaty Macadamia | 8g | 2/5 | blah, only really taste the nuts |
