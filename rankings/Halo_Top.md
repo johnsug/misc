@@ -24,8 +24,8 @@
 | Banana Cream Pie | 8g | /5 |  |
 | Berry Swirl | 8g | 3/5 | ok, didn't love frozen berry pockets |
 | Caramel Butter Pecan | 5g | /5 |  |
-| Jelly Donut | 7g | /5 |  |
-| Peanut Butter Chocolate | 8g | /5 |  |
+| Jelly Donut | 7g | 3/5 | ok but forgettable |
+| Peanut Butter Chocolate | 8g | 2/5 | blah |
 | White Chocolaty Macadamia | 8g | 2/5 | blah, only really taste the nuts |
 
 ### Cute Without the E (sorted by rank)
