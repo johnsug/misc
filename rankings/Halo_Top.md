@@ -22,10 +22,10 @@
 |--------|-----------|--------|----------|
 | Chocolate Cheesecake | 10g | 3.5/5 | decent |
 | Banana Cream Pie | 8g | /5 |  |
-| Berry Swirl | 8g | 3/5 | ok, didn't love frozen berry pockets |
 | Caramel Butter Pecan | 5g | /5 |  |
+| Berry Swirl | 8g | 3/5 | ok, didn't love frozen berry pockets |
 | Jelly Donut | 7g | 3/5 | ok but forgettable |
-| Peanut Butter Chocolate | 8g | 2/5 | blah |
+| Peanut Butter Chocolate | 8g | 2/5 | blah; chocolate swirls were bitter |
 | White Chocolaty Macadamia | 8g | 2/5 | blah, only really taste the nuts |
 
 ### Cute Without the E (sorted by rank)
