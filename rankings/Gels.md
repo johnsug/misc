@@ -41,6 +41,7 @@ stock up on:
 | Tastefully Nude | 20mg | 2.5/5 | Super-sweet cream cheese frosting |
 | Pineapple (R) | 0mg | 2.5/5 | Almost good |
 | Strawberry Kiwi (R) | 0mg | 2.5/5 | ok, tried to just get it down and forget about it... ok, but wouldn't buy it again |
+| Cola Me Happy | 40mg | 2/5 | offsetting |
 | Tutti Fruiti (R) | 35mg | 2/5 | weird fruity flavor, a bit too sweet |
 | Cherry Lime | 35mg | 2/5 | Weird (coffee?) flavor / aftertaste |
 | Mandarin Orange | 20mg | 2/5 | Weird (burnt) taste/aftertaste |
@@ -52,6 +53,19 @@ stock up on:
 | Caramel Maccihiato | 40mg | 1/5 | Nasty |
 | Salted Watermelon | 20mg | 1/5 | Soapy melon |
 | ~~Espresso Love~~ | ~~40mg~~ | | |
+
+### RX Nut Butter
+| Flavor | Net Carbs | Rating | Thoughts |
+|--------|---|--------|----------|
+| Honey Cinnamon Peanut | 6g | /5 |  |
+| Vanilla Almond | 5g | /5 |  |
+| Maple Almond | 5g | /5 |  |
+| Almond | 5g | /5 |  |
+| Peanut | 6g | /5 |  |
+| Chocolate Peanut | 6g | /5 |  |
+| Coconut Almond | 4g | /5 |  |
+| MaraNatha Peanut | 3g | /5 |  |
+| MaraNatha Almond | 2g | /5 |  |
 
 ### Huma
 
@@ -65,7 +79,6 @@ stock up on:
 | Blueberry | | 3/5 | ok |
 | Apple & Cinnamon | | 2/5 | Tastes like applesauce; I don't like applesauce |
 | ~~Mocha~~ | x2 | | /5 |
-
 
 ### Clif Shots
 
