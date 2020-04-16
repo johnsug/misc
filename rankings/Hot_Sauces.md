@@ -8,11 +8,11 @@ Rankings:
 | ----- Purchased --------------- | --------------------- | --- | ------------------------------------------------- |
 | The Classic Pepper X            | Heatonist             | /5 |  |
 | The Last Dab Chile de Arbol     | Heatonist             | /5 |  |
+| The Last Dab XXX                | Heatonist             | /5 |  |
 | Hot Thai Green                  | Seed Ranch            | /5 |  |
 | Dick's Caribbean Dreams         | Dirty Dick's          | /5 |  |
 | Dick's Peachy Green             | Dirty Dick's          | /5 |  |
-| Cheeba Gold                     | High River Sauces     | /5 |  |
-| The Last Dab XXX                | Heatonist             | /5 |  |
+| Heartbeat Habanero              | Heartbeat Hot Sauce   | /5 |  |
 | Scotch Bonnet Mustard           | Double Take Salsa Co  | /5 |  |
 | Keith's Chicken Sauce           | Butterly Bakery       | /5 |  |
 | Garlic Reaper Sauce             | Torchbearer Sauces    | /5 |  |
@@ -21,6 +21,7 @@ Rankings:
 | ----- Meh --------------------- | --------------------- | --- | ------------------------------------------------- |
 | The Last Dab Scorpion           | Heatonist             | 3/5 | ok flavor; great heat in dishes                   |
 | The Classic                     | Heatonist             | 3/5 | was my staple for eggs, but seems a bit dull now  |
+| Cheeba Gold                     | High River Sauces     | 3/5 | eh |
 | Secret Aardvark Habanero Sauce  | Secret Aardvark       | 2/5 | not my jam; ok on pizza                           |
 | Tamaulipeka                     | Cantina Royal         | 2/5 | weird/bland flavor                                |
 | The Chicago                     | Small Axe Peppers     | 2/5 | ok; vinegary                                      |
