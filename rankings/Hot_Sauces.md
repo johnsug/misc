@@ -5,9 +5,9 @@ Rankings:
 | Los Calientes                   | Heatonist             | 5/5 | Perfection                                        |
 | Dirty Dick's Hot Sauce          | Dirty Dick's          | 4/5 | Good on chicken, not on eggs                      |
 | Los Calientes Rojo              | Heatonist             | 4/5 | Great, but falls short of the OG                  |
+| Tamaulipeka                     | Cantina Royal         | 3/5 | Very good (once you pour out excess oil...)       |
 | ----- Purchased --------------- | --------------------- | --- | ------------------------------------------------- |
 | The Classic Pepper X            | Heatonist             | /5 |  |
-| The Last Dab Chile de Arbol     | Heatonist             | /5 |  |
 | The Last Dab XXX                | Heatonist             | /5 |  |
 | Hot Thai Green                  | Seed Ranch            | /5 |  |
 | Dick's Caribbean Dreams         | Dirty Dick's          | /5 |  |
@@ -20,15 +20,15 @@ Rankings:
 | Smoked Onion                    | Butterly Bakery       | /5 |  |
 | ----- Meh --------------------- | --------------------- | --- | ------------------------------------------------- |
 | The Last Dab Scorpion           | Heatonist             | 3/5 | ok flavor; great heat in dishes                   |
+| The Last Dab Chile de Arbol     | Heatonist             | 3/5 | good, but not quite enough for regular rotation   |
 | The Classic                     | Heatonist             | 3/5 | was my staple for eggs, but seems a bit dull now  |
-| Cheeba Gold                     | High River Sauces     | 3/5 | eh |
+| Cheeba Gold                     | High River Sauces     | 2/5 | eh; ok mixed with dirty dicks on burgers          |
 | Secret Aardvark Habanero Sauce  | Secret Aardvark       | 2/5 | not my jam; ok on pizza                           |
-| Tamaulipeka                     | Cantina Royal         | 2/5 | weird/bland flavor                                |
-| The Chicago                     | Small Axe Peppers     | 2/5 | ok; vinegary                                      |
-| Red Bronx                       | Small Axe Peppers     | 2/5 | ok; vinegary                                      |
-| Green Bronx                     | Small Axe Peppers     | 2/5 | ok; vinegary                                      |
-| Queens 7                        | Small Axe Peppers     | 2/5 | ok; vinegary                                      |
-| Habanero Mango                  | Small Axe Peppers     | 2/5 | ok; hot; vinegary                                 |
+| The Chicago                     | Small Axe Peppers     | 2/5 | ok, but pretty vinegary                           |
+| Red Bronx                       | Small Axe Peppers     | 2/5 | ok, but pretty vinegary                           |
+| Green Bronx                     | Small Axe Peppers     | 2/5 | ok, but pretty vinegary                           |
+| Queens 7                        | Small Axe Peppers     | 2/5 | ok, but pretty vinegary                           |
+| Habanero Mango                  | Small Axe Peppers     | 2/5 | ok; hot; very vinegary                            |
 | Paddy O's Potion                | Popp Sauce            | 2/5 | ok on wings, but kind of weird                    |
 | Hippy Dippy Green               | Angry Goat Peppers Co | 2/5 | good for tacos, didn't like on wings              |
 | Pineapple & Habanero            | Bravado               | 2/5 | runny; no real flavor on wings                    |
