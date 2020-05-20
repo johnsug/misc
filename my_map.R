@@ -1,16 +1,18 @@
 
-library(Cairo)
 library(maps)
-library(data.table)
+library(Cairo)
 library(ggplot2)
+library(data.table)
 windows.options(antialias="cleartype")
 ## coorinates from https://mapstogpx.com/
 
 ## to do:
 # future project, map (roughly) everywhere I've been
+# * powder springs to ellijay
 # * oklahoma trip...
 # 
 # ## shade: lived (utah, idaho, georgia, texas, missouri, kansas) -- just the county?
+# ## maybe shade states I HAVE NOT been to (WA, MT, ND, SD, WI, LA, IA, OH, WV, VA, NC, SC, DE, PA, RI, NH, VT, ME) 18/51 ~35%
 # ## dots where traveled for work (SF, Reno, Oklahoma, Dallas, Austin, DC, Vegas)
 # ## dots where run races (Atlanta, Chattanooga/Nashville, KC, St. George, Buckeye, Portland)
 
@@ -64,7 +66,9 @@ g25 <- parse_gpx(data.table(read.csv("C:/Users/JohnSugden/OneDrive - Caravan Hea
 g31 <- parse_gpx(data.table(read.csv("C:/Users/JohnSugden/OneDrive - Caravan Health/John_Sugden_Private/mapstogpx20200520_205646.gpx")))
 g32 <- parse_gpx(data.table(read.csv("C:/Users/JohnSugden/OneDrive - Caravan Health/John_Sugden_Private/mapstogpx20200520_205900.gpx")))
 g33 <- parse_gpx(data.table(read.csv("C:/Users/JohnSugden/OneDrive - Caravan Health/John_Sugden_Private/mapstogpx20200520_210356.gpx")))
-gpx <- rbind(g01, g02, g03, g04, g05, g06, g10, g11, g13, g14, g15, g21, g22, g23, g24, g25, g31, g32, g33)
+g34 <- parse_gpx(data.table(read.csv("C:/Users/JohnSugden/OneDrive - Caravan Health/John_Sugden_Private/mapstogpx20200520_211735.gpx")))
+gpx <- rbind(g01, g02, g03, g04, g05, g06, g10, g11, g13, g14, g15, g21, g22, g23, g24, g25, g31, g32, g33, g34)
+rm(g01, g02, g03, g04, g05, g06, g10, g11, g13, g14, g15, g21, g22, g23, g24, g25, g31, g32, g33, g34)
 
 ## does rounding corrupt? not really, not much difference between 2 and 3 decimal places
 gpx[, lat:=round(lat, 3)]
