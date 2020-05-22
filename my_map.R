@@ -8,14 +8,9 @@ windows.options(antialias="cleartype")
 
 ## to do:
 # future project, map (roughly) everywhere I've been
-# * powder springs to ellijay
-# * oklahoma trip...
-# 
-# ## shade: lived (utah, idaho, georgia, texas, missouri, kansas) -- just the county?
-# ## maybe shade states I HAVE NOT been to (WA, MT, ND, SD, WI, LA, IA, OH, WV, VA, NC, SC, DE, PA, RI, NH, VT, ME) 18/51 ~35%
-# ## dots where traveled for work (SF, Reno, Oklahoma, Dallas, Austin, DC, Vegas)
-# ## dots where run races (Atlanta, Chattanooga/Nashville, KC, St. George, Buckeye, Portland)
 
+## read in coords for points of interest
+poi <- fread("https://raw.githubusercontent.com/johnsug/misc/master/coords.csv")
 
 ## custom formula to parse coordinates
 parse_gpx <- function(data){
@@ -80,12 +75,16 @@ usa <- map_data("state")
 not <- data.table(usa)
 not <- not[region %in% c("washington", "montana", "north dakota", "south dakota", "wisconsin", "louisiana", "iowa", "ohio", "west virginia", "virginia", 
                          "north carolina", "south carolina", "delaware", "pennsylvania", "rhode island", "new hampshire", "vermont", "maine")]
-not[, .N, by=region]
+lived <- data.table(usa)
+lived <- lived[region %in% c("utah", "idaho", "georgia", "kansas", "missouri")]
+
 
 ggplot() + 
   geom_polygon(data=not, aes(x=long, y=lat, group=group), fill=5, alpha=.2) + 
   geom_polygon(data=usa, aes(x=long, y=lat, group=group), size=1, color=5, fill=5, alpha=.15) + 
+  geom_polygon(data=lived, aes(x=long, y=lat, group=group), size=1, fill="#ffe5b4", alpha=.3) + 
   geom_point(data=gpx, aes(x=long, y=lat), color="royalblue", size=.8) + 
+  geom_point(data=poi, aes(x=Long, y=Lat), color="red", size=2) + 
   theme_minimal() + 
   theme(legend.position="none", 
         axis.text=element_blank(), 
