@@ -10,10 +10,7 @@ Rankings:
 | Scotch Bonnet Mustard           | Double Take Salsa Co  | /5 |  |
 | The Classic Pepper X            | Heatonist             | /5 |  |
 | The Last Dab XXX                | Heatonist             | /5 |  |
-| Heartbeat Habanero              | Heartbeat Hot Sauce   | /5 |  |
 | Hot Thai Green                  | Seed Ranch            | /5 |  |
-| Garlic Reaper Sauce             | Torchbearer Sauces    | /5 |  |
-| Son of Zombie                   | Torchbearer Sauces    | /5 |  |
 | Dick's Caribbean Dreams         | Dirty Dick's          | /5 |  |
 | Dick's Peachy Green             | Dirty Dick's          | /5 |  |
 | ----- Wish List --------------- | --------------------- | --- | ------------------------------------------------- |
@@ -23,6 +20,9 @@ Rankings:
 | The Last Dab Scorpion           | Heatonist             | 3/5 | ok flavor; great heat in dishes                   |
 | The Last Dab Chile de Arbol     | Heatonist             | 3/5 | good, but not quite enough for regular rotation   |
 | The Classic                     | Heatonist             | 3/5 | was my staple for eggs, but seems a bit dull now  |
+| Heartbeat Habanero              | Heartbeat Hot Sauce   | 3/5 | ok, expecting better flavor |
+| Son of Zombie                   | Torchbearer Sauces    | 3/5 | ok, but would have just preferred hot BBQ sauce from KC Joes |
+| Garlic Reaper Sauce             | Torchbearer Sauces    | 2/5 | HOT, but otherwise not much flavor (was expecting a hot GARLIC sauce) |
 | Cheeba Gold                     | High River Sauces     | 2/5 | eh; ok mixed with dirty dicks on burgers          |
 | Secret Aardvark Habanero Sauce  | Secret Aardvark       | 2/5 | not my jam; ok on pizza                           |
 | The Chicago                     | Small Axe Peppers     | 2/5 | ok, but pretty vinegary                           |
