@@ -6,17 +6,17 @@ Rankings:
 | Los Calientes                   | Heatonist             | 4.5/5 | Fantastic; OG                                   |
 | Dirty Dick's Hot Sauce          | Dirty Dick's          | 4/5 | Fantastic on chicken, not so much on eggs         |
 | Tamaulipeka                     | Cantina Royal         | 4/5 | Very good (once you pour out excess oil...)       |
-| ----- Purchased --------------- | --------------------- | --- | ------------------------------------------------- |
+| ----- Purchased ------------    | --------------------- | --- | ------------------------------------------------- |
 | Scotch Bonnet Mustard           | Double Take Salsa Co  | /5 |  |
 | The Classic Pepper X            | Heatonist             | /5 |  |
 | The Last Dab XXX                | Heatonist             | /5 |  |
 | Hot Thai Green                  | Seed Ranch            | /5 |  |
 | Dick's Caribbean Dreams         | Dirty Dick's          | /5 |  |
 | Dick's Peachy Green             | Dirty Dick's          | /5 |  |
-| ----- Wish List --------------- | --------------------- | --- | ------------------------------------------------- |
+| ----- Wish List ------------    | --------------------- | --- | ------------------------------------------------- |
 | Keith's Chicken Sauce           | Butterfly Bakery      | /5 |  |
 | Smoked Onion                    | Butterfly Bakery      | /5 |  |
-| ----- Meh --------------------- | --------------------- | --- | ------------------------------------------------- |
+| ----- Meh ------------------    | --------------------- | --- | ------------------------------------------------- |
 | The Last Dab Scorpion           | Heatonist             | 3/5 | ok flavor; great heat in dishes                   |
 | The Last Dab Chile de Arbol     | Heatonist             | 3/5 | good, but not quite enough for regular rotation   |
 | The Classic                     | Heatonist             | 3/5 | was my staple for eggs, but seems a bit dull now  |
@@ -34,7 +34,7 @@ Rankings:
 | Hippy Dippy Green               | Angry Goat Peppers Co | 2/5 | good for tacos, didn't like on wings              |
 | Pineapple & Habanero            | Bravado               | 2/5 | runny; no real flavor on wings                    |
 | Carnival                        | Karma Sauce           | 2/5 | lingering hot; weird floral taste; not great      |
-| ----- Perhaps List ------------ | --------------------- | --- | ------------------------------------------------- |
+| ----- Perhaps List ---------    | --------------------- | --- | ------------------------------------------------- |
 | Good Karma                      | Karma Sauce           | /5 |  |
 | Smokey Karma                    | Karma Sauce           | /5 |  |
 | Curry Karma                     | Karma Sauce           | /5 |  |
