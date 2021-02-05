@@ -4,23 +4,27 @@ series: https://www.youtube.com/watch?v=b99UVkWzYTQ
 
 ## Terminology
 
-propogation: direction of learning in the nets
+**propogation:** direction of learning in the nets
 
-forward prop: 
+**forward prop:**
+
   input layer: activations -> second layer: activations -> third layer: activations -> output layer (generated output) 
 
-backward prop: 
+**backward prop:** 
+
   input layer <- activations second layer <- activations third layer <- activations output layer
 
-weights: edges
+**weights:** edges
 
-bias: nodes
+**bias:** nodes
 
-cost: generated output - actual output
+**cost:** generated output - actual output
 
-training: process of improving accuracy; model is trained through process of tweaking weights and biases
+**training:** process of improving accuracy; model is trained through process of tweaking weights and biases
 
-gradient: rate at which cost changes with respect to the weight or bias
+**gradient:** rate at which cost changes with respect to the weight or bias
+
+
 
 ## Why Use Deep Learning? (Pattern Complexity)
 
