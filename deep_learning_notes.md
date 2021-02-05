@@ -4,25 +4,16 @@ series: https://www.youtube.com/watch?v=b99UVkWzYTQ
 
 ## Terminology
 
-**propogation:** direction of learning in the nets
-
-**forward prop:**
-
-  input layer: activations -> second layer: activations -> third layer: activations -> output layer (generated output) 
-
-**backward prop:** 
-
-  input layer <- activations second layer <- activations third layer <- activations output layer
-
-**weights:** edges
-
-**bias:** nodes
-
-**cost:** generated output - actual output
-
-**training:** process of improving accuracy; model is trained through process of tweaking weights and biases
-
-**gradient:** rate at which cost changes with respect to the weight or bias
+| Term | Definition |
+|------|------------|
+| propogation: | direction of learning in the nets |
+| forward prop: | input layer: activations -> second layer: activations -> third layer: activations -> output layer (generated output) 
+| backward prop: | input layer <- activations second layer <- activations third layer <- activations output layer |
+| weights: | edges |
+| bias: | nodes |
+| cost: | generated output - actual output |
+| training: | process of improving accuracy; model is trained through process of tweaking weights and biases |
+| gradient: | rate at which cost changes with respect to the weight or bias |
 
 
 
@@ -30,18 +21,20 @@ series: https://www.youtube.com/watch?v=b99UVkWzYTQ
 
 | Situation | Deep Learning Methods |
 |-----------|-----------------------|
-| unlabeled data* | RBMs, Autoencoders |
+| unlabeled data^ | RBMs, Autoencoders |
 | text processing | RNTN, recurrent net |
 | immage recognition | DBN, convolutional net |
 | object recognition | RNTN, convolutional net |
 | speech recognition | recurrent net |
 
-* unlabled data problems include feature extraction, unsupervised learning, general pattern recognition
-* RNTN = recursive neural tensor net
+^ unlabled data problems include feature extraction, unsupervised learning, general pattern recognition
+^^ RNTN = recursive neural tensor net
 
 In general:
 * for classification, use MPL/RELU/DBN
 * for time series analysis, use recurrent net
+
+
 
 ## Why Did it Take So Long to Adopt DL?
 
