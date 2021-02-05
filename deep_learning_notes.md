@@ -8,7 +8,7 @@ series: https://www.youtube.com/watch?v=b99UVkWzYTQ
 |------|------------|
 | propogation | direction of learning in the nets |
 | forward prop | input layer: activations -> second layer: activations -> third layer: activations -> output layer (generated output) |
-| backward prop | input layer <- activations second layer <- activations third layer <- activations output layer |
+| backward prop | input layer (input) <- second layer: activations <- third layer: activations <- output layer: activations |
 | weights | edges |
 | bias | nodes |
 | cost | generated output - actual output |
