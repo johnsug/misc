@@ -9,7 +9,7 @@
 | 5    | Aisling, **Bob**, Mark, Nish, Sally | x | Eh |
 | 6    | Alice, Asim, **Liza**, Russell, Tim | - | Alex/Greg |
 | 7    | James, Jessica, **Kerry**, Phil, Rhod | xxx |Every single moment |
-| 8    | Iain, Joe, **Lou**, Paul, Sian | x | Iain warmed up to me |
+| 8    | Iain, Joe, **Lou**, Paul, Sian | x | Iain? |
 | 9    | David, Ed, Jo, Katy, Rose | | |
 | 10   | Daisy, Johnny, Katherine, Mawaan, Richard | | |
 | 11   | Charlotte, Jamali, Lee, Mike, Sarah | | |
