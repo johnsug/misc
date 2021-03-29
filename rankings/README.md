@@ -1,4 +1,4 @@
-Miscellanous logs as I discover which forms of fitness nutrition work best for me.
+Miscellanous logs as I discover which forms of fitness nutrition work best for me. (Only re-purchase 4+)
 
 | Score | Meaning |
 |-------|---------|
