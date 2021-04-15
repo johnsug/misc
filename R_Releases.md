@@ -1,7 +1,12 @@
 
 | Release | Date     | Code Name                |
 |-------|------------|--------------------------|
-| 4.0.0 | 04-00-2020 | |
+| 4.0.5 | 03-31-2021 | Shake and Throw |
+| 4.0.4 | 02-15-2021 | Lost Library Book |
+| 4.0.3 | 10-12-2020 | Bunny-Wunnies Freak Out|
+| 4.0.2 | 07-22-2020 | Taking Off Again|
+| 4.0.1 | 06-06-2020 | See Things Now |
+| 4.0.0 | 04-00-2020 | Arbor Day |
 | 3.6.3 | 02-29-2020 | Holding the Windsock |
 | 3.6.2 | 12-12-2019 | Dark and Stormy Night |
 | 3.6.1 | 07-05-2019 | Action of the Toes |
