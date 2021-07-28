@@ -1,8 +1,19 @@
 
 ## Other Running Foods
 
-### Honey Stinger Waffles
+### Skratch Labs
+| Flavor | C | Rating | Thoughts |
+|--------|---|--------|----------|
+| Sour Cherry Chews | 40mg | 3/5 | ok, a little bitter |
+| Orange Chews | 0mg | /5 |  |
+| Orange Drink | 0mg | /5 |  |
+| Fruit Punch Drink | 0mg | /5 |  |
+| Straw Lemon Drink | 0mg | /5 |  |
+| Lemon Lime Drink | 0mg | /5 |  |
+| Rasp Lemon Bar | 0mg | /5 |  |
+| Straw Mallow Bar | 0mg | /5 |  |
 
+### Honey Stinger Waffles
 | Flavor | C  | Rating | Thoughts |
 |--------|----|--------|----------|
 | Caramel Waffle | 0mg | | |
