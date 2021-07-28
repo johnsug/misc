@@ -13,6 +13,13 @@
 | Rasp Lemon Bar | 0mg | /5 |  |
 | Straw Mallow Bar | 0mg | /5 |  |
 
+
+### Tailwind
+| Flavor | C  | Rating | Thoughts |
+|--------|----|--------|----------|
+| Lemon | 0mg | 3/5 | ok |
+| Unflavored | 0mg | /5 |  |
+
 ### Honey Stinger Waffles
 | Flavor | C  | Rating | Thoughts |
 |--------|----|--------|----------|
@@ -23,5 +30,3 @@
 | Strawberry Waffle | 0mg | 4/5 | Didn't really taste strawberry |
 | Lemon Waffle | 0mg | 4/5 | Didn't really taste lemon |
 | Honey Waffle | 0mg | | |
-
-*waffles are a bit large for a race pack and are probably better for pre-race fuel*
