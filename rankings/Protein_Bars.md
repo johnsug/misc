@@ -1,5 +1,20 @@
 ## Protien Bars
 
+### Built Bars (17g protein)
+| Flavor | Calories | Carbs | Ranking | Thoughts |
+|----------|----------|----------|----------|----------|
+| Cherry Barcia | 130 | 4g | /5 |  |
+| Coconut | 130 | 4g | 3/5 | ok |
+| Cookies 'n Cream | 130 | 4g | /5 |  |
+| Double Chocolate | 130 | 4g | /5 |  |
+| Orange | 130 | 4g | /5 |  |
+| Mint Brownie | 130 | 4g | /5 |   |
+| Raspberry | 130 | 4g | /5 |  |
+| Salted Caramel | 130 | 4g | /5 |  |
+| Strawberry | 140 | 5g | /5 |  |
+
+*old recipe was great; excited to try the new*
+
 ### Muscle Milk
 | Flavor | Carbs | Protein | Rating | Thoughts | 
 |--------|-------|---------|--------|----------|
