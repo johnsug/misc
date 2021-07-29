@@ -4,15 +4,23 @@
 ### Skratch Labs
 | Flavor | C | Rating | Thoughts |
 |--------|---|--------|----------|
-| Sour Cherry Chews | 40mg | 3/5 | ok, a little bitter |
+| Sour Cherry Chews | 50mg | 3/5 | ok, a little bitter |
 | Orange Chews | 0mg | /5 |  |
-| Orange Drink | 0mg | /5 |  |
-| Fruit Punch Drink | 0mg | /5 |  |
 | Straw Lemon Drink | 0mg | /5 |  |
 | Lemon Lime Drink | 0mg | /5 |  |
+| Fruit Punch Drink | 0mg | /5 |  |
+| Orange Drink | 0mg | /5 |  |
+| Lemon Drink | 0mg | /5 |  |
+| Chocolate Recovery | 0mg | /5 |  |
+| Horchat Recovery | 0mg | /5 |  |
+| PB Straw Bar | 0mg | /5 |  |
+| Cherry Pistachio Bar | 0mg | /5 |  |
 | Rasp Lemon Bar | 0mg | /5 |  |
 | Straw Mallow Bar | 0mg | /5 |  |
-
+| Choc Mallow Bar | 0mg | /5 |  |
+| Mallow Bar | 0mg | /5 |  |
+| Lemon Lime Hydro | 0mg | /5 |  |
+| Passion Fruit Hyper Hydro | /5 |  |
 
 ### Tailwind
 | Flavor | C  | Rating | Thoughts |
