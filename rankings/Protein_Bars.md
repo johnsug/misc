@@ -1,17 +1,26 @@
 ## Protien Bars
 
+| Score | Meaning |
+|-------|---------|
+| 5 | Gold standard, go-to fuel option |
+| 4 | Good, would buy again |
+| 3 | Edible, but nothing to write home about |
+| 2 | Hard to get down |
+| 1 | Unable to get down |
+
 ### Built Bars (17g protein)
 | Flavor | Calories | Carbs | Ranking | Thoughts |
 |----------|----------|----------|----------|----------|
 | Cherry Barcia | 130 | 4g | /5 |  |
-| Coconut | 130 | 4g | 3/5 | ok |
 | Cookies 'n Cream | 130 | 4g | /5 |  |
 | Double Chocolate | 130 | 4g | /5 |  |
-| Orange | 130 | 4g | /5 |  |
-| Mint Brownie | 130 | 4g | /5 |   |
 | Raspberry | 130 | 4g | /5 |  |
 | Salted Caramel | 130 | 4g | /5 |  |
 | Strawberry | 140 | 5g | /5 |  |
+| Coconut | 130 | 4g | 3/5 | ok |
+| Orange | 130 | 4g | 3/5 | faint flavor, weird orangey aftertaste |
+| Mint Brownie | 130 | 4g | 3/5 | almost toothpastey |
+
 
 *old recipe was great; excited to try the new*
 
