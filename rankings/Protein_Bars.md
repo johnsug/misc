@@ -13,16 +13,14 @@
 |----------|----------|----------|----------|----------|
 | Cherry Barcia | 130 | 4g | /5 |  |
 | Cookies 'n Cream | 130 | 4g | /5 |  |
-| Double Chocolate | 130 | 4g | /5 |  |
-| Raspberry | 130 | 4g | /5 |  |
+| Double Chocolate | 130 | 4g | 5/5 | very good |
+| Raspberry | 130 | 4g | 4/5 | pleasant |
 | Salted Caramel | 130 | 4g | /5 |  |
-| Strawberry | 140 | 5g | /5 |  |
-| Coconut | 130 | 4g | 3/5 | ok |
+| Strawberry | 140 | 5g | 2/5 | not pleasant |
+| Coconut | 130 | 4g | 3. 5/5 | ok |
 | Orange | 130 | 4g | 3/5 | faint flavor, weird orangey aftertaste |
 | Mint Brownie | 130 | 4g | 3/5 | almost toothpastey |
-
-
-*old recipe was great; excited to try the new*
+*great, keto friendly, but at $2.00/each, better as a special treat and not for regular consumption*
 
 ### Muscle Milk
 | Flavor | Carbs | Protein | Rating | Thoughts | 
