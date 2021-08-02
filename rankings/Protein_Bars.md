@@ -11,17 +11,17 @@
 ### Built Bars (17g protein)
 | Flavor | Calories | Carbs | Ranking | Thoughts |
 |----------|----------|----------|----------|----------|
-| Cherry Barcia | 130 | 4g | /5 |  |
-| Cookies 'n Cream | 130 | 4g | /5 |  |
 | Double Chocolate | 130 | 4g | 5/5 | very good |
 | Raspberry | 130 | 4g | 4/5 | pleasant |
 | Coconut | 130 | 4g | 3.5/5 | ok |
 | Mint Brownie | 130 | 4g | 3/5 | almost toothpastey |
 | Orange | 130 | 4g | 3/5 | faint flavor, weird orangey aftertaste |
+| Cherry Barcia | 130 | 4g | 2.5/5 | tastes off |
+| Cookies 'n Cream | 130 | 4g | 2.5/5 | tastes off |
 | Salted Caramel | 130 | 4g | 2.5/5 | almost burnt taste |
 | Strawberry | 140 | 5g | 2/5 | not pleasant |
 
-*great, keto friendly, but at $2.00/each, better as a special treat and not for regular consumption*
+*some are great, and keto friendly, but at $2.00/each, better as a special treat and not for regular consumption*
 
 ### Muscle Milk
 | Flavor | Carbs | Protein | Rating | Thoughts | 
