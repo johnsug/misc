@@ -13,7 +13,7 @@
 |----------|----------|----------|----------|----------|
 | Double Chocolate | 130 | 4g | 5/5 | very good |
 | Raspberry | 130 | 4g | 4/5 | pleasant |
-| Coconut | 130 | 4g | 3.5/5 | ok |
+| Coconut | 130 | 4g | 3/5 | ok; coconut very subtle |
 | Mint Brownie | 130 | 4g | 3/5 | almost toothpastey |
 | Orange | 130 | 4g | 3/5 | faint flavor, weird orangey aftertaste |
 | Cherry Barcia | 130 | 4g | 2.5/5 | tastes off |
