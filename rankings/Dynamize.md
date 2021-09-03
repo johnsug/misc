@@ -3,8 +3,9 @@
 | Fudge Brownie | $74.99 | 5/5 | home run | X |
 | Orange | $66.84 | 4/5 | great | X |
 | Strawberry | $66.84 | 4/5 | great | X |
-| Cookies & Cream | $74.99 | /5 | ok, mild flavor | - |
-| Banana | $66.84 | 3/5 | no flavor | - |
+| Cookies & Cream | $74.99 | 3.5/5 | ok, mild flavor | - |
+| Banana | $66.84 | 3/5 | no flavor (bad batch?) | - |
+|-----|-----|-----|-----|-----|
 | Vanilla | $66.84 | /5 | try next |  |
 | Birthday Cake | $66.84 | /5 | try next |  |
 |-----|-----|-----|-----|-----|
