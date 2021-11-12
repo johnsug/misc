@@ -28,7 +28,8 @@
 | Falcon and the Winter Soldier       |            | 3.5/5   |  |
 | Loki                                |            | 4/5 |  |
 | Black Widow                         |            | 3/5 |  |
-| Shang-Chi                           | 9/03/2021  | 4.5/5 | ** |
+| Shang-Chi                           | 09/03/2021 | 4.5/5 | ** |
+| Eternals                            | 11/05/2021 | 2.5/5 | -- |
 
 | DCEU Movie                          | Released   | Ranking | Top |
 |-------------------------------------|------------|---------|-----|
