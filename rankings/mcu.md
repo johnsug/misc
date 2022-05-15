@@ -1,4 +1,3 @@
-
 | Movie                               | Released   | Ranking | Top |
 |-------------------------------------|------------|---------|-----|
 | Iron Man                            | 05/02/2008 | 4/5 | * |
@@ -24,12 +23,29 @@
 | Captain Marvel                      | 03/08/2019 | 3/5 | |
 | Avengers: Endgame                   | 04/26/2019 | 4/5 | * |
 | Spider-Man: Far From Home           | 07/05/2019 | 4.5/5 | ** |
-| Wandavision                         |            | 4/5 |  |
-| Falcon and the Winter Soldier       |            | 3.5/5   |  |
-| Loki                                |            | 4/5 |  |
-| Black Widow                         |            | 3/5 |  |
-| Shang-Chi                           | 09/03/2021 | 4.5/5 | ** |
+| Wandavision                         | 01/15/2021 | 4/5 |  |
+| Falcon and the Winter Soldier       | 03/19/2021 | 3.5/5 |  |
+| Loki                                | 06/09/2021 | 4/5 | * |
+| Black Widow                         | 07/09/2021 | 3/5 |  |
+| What If...?                         | 08/11/2021 | 3/5 |  |
+| Shang-Chi                           | 09/03/2021 | 4.5/5 | *** |
 | Eternals                            | 11/05/2021 | 2.5/5 | -- |
+| Spider-Man: No Way Home             | 12/17/2021 | 4/5 | | * |
+| Hawkeye                             | 11/24/2021 | 4.5/5 | *** |
+| Moon Knight                         | 03/30/2021 | 4.5/5 | *** |
+| Dr. Strange: Multiverse of Madness  | 05/06/2022 | 4.5/5 | *** |
+| Ms. Marvel                          | 06/08/2022 | /5 |  |
+| Thor: Love and Thunder              | 07/08/2022 | /5 |  |
+| She-Hulk                            | | /5 |  |
+| Secret Invasion                     | | /5 |  |
+| Black Panther: Wakanda Forever      | 11/11/2022 | /5 |  |
+| Ant-Man and the Wasp: Quantumania   | 02/17/2023 | /5 |  |
+| Guardians of the Galaxy Vol. 3.     | 05/05/2023 | /5 |  |
+| The Marvels                         | 07/28/2023 | /5 |  |
+| Fantastic Four                      | | /5 |  |
+| Iron Heart                          | | /5 |  |
+| Armor Wars                          | | /5 |  | 
+| Wakanda Series                      | | /5 |  |
 
 | DCEU Movie                          | Released   | Ranking | Top |
 |-------------------------------------|------------|---------|-----|
